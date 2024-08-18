@@ -8,14 +8,6 @@ const githostsUrls = [
   'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext'
 ];
 
-const addhostsUrls = [
-  'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all',
-  'https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/hosts',
-  'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext',
-  'https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts',
-  'https://raw.hellogithub.com/hosts',
-  'https://raw.githubusercontent.com/maxiaof/github-hosts/master/hosts'
-];
 
 // 函数来获取数据并写入文件
 async function fetchAndUpdateFile(urls, filePath) {
@@ -32,7 +24,6 @@ async function fetchAndUpdateFile(urls, filePath) {
   }
 }
 
-// 更新 githosts 和 addhosts 文件
+
 fetchAndUpdateFile(githostsUrls, 'githosts');
-fetchAndUpdateFile(addhostsUrls, 'addhosts');
 
