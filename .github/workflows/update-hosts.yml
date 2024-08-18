@@ -23,6 +23,7 @@ jobs:
 
       - name: Run githosts script
         run: node githosts.js
+        working-directory: ./js
 
       - name: Commit and push updated githosts
         run: |
@@ -36,6 +37,7 @@ jobs:
 
       - name: Run addhosts script
         run: node addhosts.js
+        working-directory: ./js
 
       - name: Commit and push updated addhosts
         run: |
