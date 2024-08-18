@@ -47,4 +47,4 @@ function processTextData(text) {
   return uniqueLines.join('\n');
 }
 
-fetchAndUpdateFile(githostsUrls, 'githosts');
+fetchAndUpdateFile(githostsUrls, './githosts');
