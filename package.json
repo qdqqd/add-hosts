@@ -1,0 +1,8 @@
+{
+  "name": "update-hosts",
+  "version": "1.0.0",
+  "main": "githosts.js",
+  "dependencies": {
+    "axios": "^1.0.0"
+  }
+}
