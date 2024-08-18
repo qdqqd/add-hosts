@@ -34,7 +34,7 @@ def process_text(text):
     # 添加更新时间
     from datetime import datetime
     now = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
-    lines.insert(0, f'Updated on: {now}')
+    lines.insert(0, f'# 作者：by柯乐\n# 主页：https://www.qdqqd.com/\n# githosts文件：github访问下载加速\n# addhosts文件：去除广告以及内置github加速\n# Updated on: {now}\n\n')
     return '\n'.join(lines)
 
 def save_to_file(filename, content):
