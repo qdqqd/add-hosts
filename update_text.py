@@ -1,6 +1,7 @@
 import requests
 import re
 from datetime import datetime
+import pytz
 
 # 网址列表
 all_urls = [
@@ -34,8 +35,10 @@ def process_text(text):
     # 删除重复行
     lines = list(set(lines))
     # 添加更新时间
-    now = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
-    lines.insert(0, f'# 作者：by柯乐\n# 主页：https://www.qdqqd.com/\n# githosts文件：github访问下载加速\n# addhosts文件：去除广告以及内置github加速\n# Updated on: {now}\n\n')
+    tz = pytz.timezone('Asia/Shanghai')
+    now_local = datetime.now(tz)
+    formatted_now = now_local.strftime('%Y-%m-%d %H:%M:%S')  # 格式化为北京时间
+    lines.insert(0, f'# 作者：by柯乐\n# 主页：https://www.qdqqd.com/\n# githosts文件：github访问下载加速\n# addhosts文件：去除广告以及内置github加速\n# Updated on: {formatted_now}\n\n')
     return '\n'.join(lines)
 
 def save_to_file(filename, content):
