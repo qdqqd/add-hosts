@@ -13,8 +13,12 @@ async function fetchAndUpdateFile(urls, filePath) {
   try {
     let allData = '';
     for (const url of urls) {
-      const response = await axios.get(url);
-      allData += response.data + '\n'; // 将每个响应数据添加到最终数据中
+      try {
+        const response = await axios.get(url);
+        allData += response.data + '\n'; // 将每个响应数据添加到最终数据中
+      } catch (error) {
+        console.error(`Error fetching data from ${url}:`, error.message);
+      }
     }
 
     // 处理数据
@@ -29,7 +33,7 @@ async function fetchAndUpdateFile(urls, filePath) {
     fs.writeFileSync(filePath, processedData);
     console.log(`Updated ${filePath} successfully.`);
   } catch (error) {
-    console.error(`Error updating ${filePath}:`, error);
+    console.error(`Error updating ${filePath}:`, error.message);
   }
 }
 
