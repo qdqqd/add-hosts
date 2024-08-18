@@ -19,15 +19,23 @@ jobs:
           node-version: '16'
 
       - name: Install dependencies
-        run: npm install
+        run: npm install axios
 
       - name: Run githosts script
         run: node githosts.js
 
-      - name: Commit and push updated hosts
+      - name: Commit and push updated githosts
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add hosts
-          git commit -m "Update hosts file"
+          git add githosts
+          git commit -m "Update githosts file"
+          git push
+
+      - name: Commit and push updated addhosts
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add addhosts
+          git commit -m "Update addhosts file"
           git push
