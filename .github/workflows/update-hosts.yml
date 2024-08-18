@@ -34,15 +34,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 使用默认的 GitHub token
 
-      - name: Run addhosts script
-        run: node addhosts.js
-
-      - name: Commit and push updated addhosts
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add addhosts
-          git commit -m "Update addhosts file" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 使用默认的 GitHub token
