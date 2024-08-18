@@ -1,0 +1,36 @@
+name: Update Text
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 每小时运行一次
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Run update script
+      run: |
+        python update_text.py
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: |
+          addhosts
+          githosts
+        message: 'Update addhosts and githosts files'
+        author_name: 'GitHub Actions'
+        author_email: 'actions@github.com'
