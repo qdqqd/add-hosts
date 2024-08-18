@@ -20,6 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: ./js  # 确保工作目录正确
 
       - name: Run githosts script
         run: node githosts.js
