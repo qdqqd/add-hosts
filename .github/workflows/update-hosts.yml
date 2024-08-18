@@ -19,7 +19,7 @@ jobs:
           node-version: '16'
 
       - name: Install dependencies
-        run: npm install axios
+        run: npm install
 
       - name: Run githosts script
         run: node githosts.js
@@ -29,7 +29,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add githosts
-          git commit -m "Update githosts file"
+          git commit -m "Update githosts file" || echo "No changes to commit"
           git push
 
       - name: Commit and push updated addhosts
@@ -37,5 +37,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add addhosts
-          git commit -m "Update addhosts file"
+          git commit -m "Update addhosts file" || echo "No changes to commit"
           git push
