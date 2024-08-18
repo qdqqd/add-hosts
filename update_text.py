@@ -1,4 +1,6 @@
 import requests
+import re
+from datetime import datetime
 
 # 网址列表
 all_urls = [
@@ -27,12 +29,11 @@ def process_text(text):
     lines = text.splitlines()
     # 删除以 # 开头的行
     lines = [line for line in lines if not line.strip().startswith('#')]
-    # 替换长空格为一个空格
-    lines = [line.replace('    ', ' ') for line in lines]
+    # 使用正则表达式替换多个空格为一个空格
+    lines = [re.sub(r'\s+', ' ', line) for line in lines]
     # 删除重复行
     lines = list(set(lines))
     # 添加更新时间
-    from datetime import datetime
     now = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
     lines.insert(0, f'# 作者：by柯乐\n# 主页：https://www.qdqqd.com/\n# githosts文件：github访问下载加速\n# addhosts文件：去除广告以及内置github加速\n# Updated on: {now}\n\n')
     return '\n'.join(lines)
