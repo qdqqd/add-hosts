@@ -32,7 +32,7 @@ jobs:
           git commit -m "Update githosts file" || echo "No changes to commit"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.hosts_token }} 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 使用默认的 GitHub token
 
       - name: Run addhosts script
         run: node addhosts.js
@@ -45,4 +45,4 @@ jobs:
           git commit -m "Update addhosts file" || echo "No changes to commit"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.hosts_token }} 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 使用默认的 GitHub token
