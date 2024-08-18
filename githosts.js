@@ -22,7 +22,7 @@ async function fetchAndUpdateFile(urls, filePath) {
 
     // 添加更新时间和作者信息
     const now = new Date();
-    const header = `# Updated on: ${now.toISOString()}\n# Author: by 柯乐\n# Homepage: https://www.qdqqd.com\n# https://raw.githubusercontent.com/qdqqd/add-hosts/main/githosts\n\n`;
+    const header = `# Updated on: ${now.toISOString()}\n# Author: by 柯乐\n# Homepage: https://www.qdqqd.com\n# https://raw.githubusercontent.com/qdqqd/add-hosts/main/githosts\n# 用于github访问下载加速\n\n`;
     processedData = header + processedData;
 
     // 写入处理后的数据
