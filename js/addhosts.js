@@ -14,25 +14,25 @@ const addhostsUrls = [
 // 函数来获取数据并写入文件
 async function fetchAndUpdateFile(urls, filePath) {
   try {
-    let allData = '';
-    for (const url of urls) {
-      const response = await axios.get(url);
-      allData += response.data + '\n'; // 将每个响应数据添加到最终数据中
-    }
+    // 并发请求
+    const responses = await Promise.all(urls.map(url => axios.get(url)));
+    
+    // 合并所有数据
+    const allData = responses.map(response => response.data).join('\n');
 
     // 处理数据
     let processedData = processTextData(allData);
 
     // 添加更新时间和作者信息
     const now = new Date();
-    const header = `# Updated on: ${now.toISOString()}\n# Author: by 柯乐\n# Homepage: https://www.qdqqd.com\n# https://raw.githubusercontent.com/qdqqd/add-hosts/main/addhosts\n# 用于去除各种广告\n\n`;
+    const header = `# Updated on: ${now.toISOString()}\n# Author: by 柯乐\n# Homepage: https://www.qdqqd.com\n# https://raw.githubusercontent.com/qdqqd/add-hosts/main/js/addhosts\n# 用于去除各种广告\n\n`;
     processedData = header + processedData;
 
     // 写入处理后的数据
-    fs.writeFileSync(filePath, processedData);
+    fs.writeFileSync(filePath, processedData, 'utf8');
     console.log(`Updated ${filePath} successfully.`);
   } catch (error) {
-    console.error(`Error updating ${filePath}:`, error);
+    console.error(`Error updating ${filePath}:`, error.message);
   }
 }
 
@@ -42,7 +42,7 @@ function processTextData(text) {
   let lines = text.split('\n').filter(line => !line.trim().startsWith('#'));
 
   // 将所有的长空格替换成一个空格
-  lines = lines.map(line => line.replace(/\s+/g, ' '));
+  lines = lines.map(line => line.replace(/\s+/g, ' ').trim());
 
   // 删除重复的文本行
   let uniqueLines = Array.from(new Set(lines));
@@ -50,4 +50,5 @@ function processTextData(text) {
   return uniqueLines.join('\n');
 }
 
+// 执行函数
 fetchAndUpdateFile(addhostsUrls, 'addhosts');
