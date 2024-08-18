@@ -4,7 +4,7 @@ const axios = require('axios');
 // 定义要获取的链接
 const githostsUrls = [
   'https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts',
-  'https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/hosts',
+  'https://raw.githubusercontent.com/maxiaof/github-hosts/master/hosts',
   'https://raw.hellogithub.com/hosts'
 ];
 
