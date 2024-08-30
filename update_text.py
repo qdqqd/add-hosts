@@ -5,7 +5,7 @@ import pytz
 
 # 网址列表
 all_urls = [
-    'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all',
+    'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward',
     'https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/hosts',
     'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext',
     'https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts',
@@ -32,6 +32,8 @@ def process_text(text):
     lines = [line for line in lines if not line.strip().startswith('#')]
     # 使用正则表达式替换多个空格为一个空格
     lines = [re.sub(r'\s+', ' ', line) for line in lines]
+    # 删除包含 'reward' 的域名
+    lines = [line for line in lines if 'reward' not in line.lower()]
     # 删除重复行
     lines = list(set(lines))
     # 添加更新时间
