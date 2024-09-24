@@ -5,8 +5,8 @@ import pytz
 
 # 网址列表
 all_urls = [
-    'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward',
-    'https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/hosts',
+    'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all',
+    'https://raw.githubusercontent.com/neodevpro/neodevhost/master/host',
     'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext',
     'https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts',
     'https://raw.hellogithub.com/hosts',
