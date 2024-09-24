@@ -33,7 +33,7 @@ def process_text(text):
     # 使用正则表达式替换多个空格为一个空格
     lines = [re.sub(r'\s+', ' ', line) for line in lines]
     # 删除包含 'reward' 的域名
-    lines = [line for line in lines if 'reward' not in line.lower()]
+   # lines = [line for line in lines if 'reward' not in line.lower()]
     # 删除重复行
     lines = list(set(lines))
     # 添加更新时间
