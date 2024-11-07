@@ -34,6 +34,7 @@ jobs:
         add: |
           addhosts
           githosts
+          Trackers.txt
         message: 'Update addhosts and githosts files'
         author_name: 'GitHub Actions'
         author_email: 'actions@github.com'
