@@ -11,12 +11,6 @@ all_urls = [
     'https://raw.githubusercontent.com/maxiaof/github-hosts/master/hosts'
 ]
 
-githosts_urls = [
-    'https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts',
-    'https://raw.hellogithub.com/hosts',
-    'https://raw.githubusercontent.com/maxiaof/github-hosts/master/hosts'
-]
-
 tracker_urls = [
     'https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all.txt',
     'https://trackerslist.com/all.txt',
@@ -25,7 +19,6 @@ tracker_urls = [
     'https://cf.trackerslist.com/all.txt',
     'https://raw.githubusercontent.com/adysec/tracker/refs/heads/main/trackers_best.txt',
     'https://trackers.run/s/rw_ws_up_hp_hs_v4_v6.txt',
-    
 ]
 
 custom_tracker_urls = [
@@ -50,11 +43,6 @@ def process_text(text):
     lines.insert(0, f'# 作者：by柯乐\n# Updated on: {formatted_now}\n\n')
     return '\n'.join(lines)
 
-def process_anti_ad_text(text):
-    lines = text.splitlines()
-    lines = [f"127.0.0.1 {line}" for line in lines]
-    return lines
-
 def process_tracker_text(text):
     lines = text.splitlines()
     lines = [line.strip() for line in lines if line.strip()]  # 去掉空行
@@ -71,22 +59,7 @@ def main():
         all_text += fetch_text(url) + '\n'
         
     processed_text = process_text(all_text)
-    save_to_file('addhosts', processed_text)
-
-    githosts_text = ''
-    for url in githosts_urls:
-        githosts_text += fetch_text(url) + '\n'
-    
-    processed_githosts_text = process_text(githosts_text)
-
-    anti_ad_text = fetch_text("https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/anti-ad-domains.txt")
-    processed_anti_ad_lines = process_anti_ad_text(anti_ad_text)
-
-    combined_rules = processed_githosts_text.splitlines() + processed_anti_ad_lines
-    combined_rules = list(set(combined_rules))
-    final_output = '\n'.join(combined_rules)
-
-    save_to_file('githosts', final_output)
+    save_to_file('addhosts.txt', processed_text)
 
     # 处理 Trackers 的内容
     trackers_text = ''
