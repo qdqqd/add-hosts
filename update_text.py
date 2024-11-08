@@ -12,8 +12,8 @@ all_urls = [
 ]
 
 anti_ad_urls = [
-    'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/anti-ad-domains.txt'
-    # 在此添加更多的 anti-AD URL
+    'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/anti-ad-domains.txt',
+    'https://raw.githubusercontent.com/217heidai/adblockfilters/refs/heads/main/rules/domain.txt'
 ]
 
 tracker_urls = [
