@@ -11,6 +11,11 @@ all_urls = [
     'https://raw.githubusercontent.com/maxiaof/github-hosts/master/hosts'
 ]
 
+anti_ad_urls = [
+    'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/anti-ad-domains.txt'
+    # 在此添加更多的 anti-AD URL
+]
+
 tracker_urls = [
     'https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all.txt',
     'https://trackerslist.com/all.txt',
@@ -43,6 +48,11 @@ def process_text(text):
     lines.insert(0, f'# 作者：by柯乐\n# Updated on: {formatted_now}\n\n')
     return '\n'.join(lines)
 
+def process_anti_ad_text(text):
+    lines = text.splitlines()
+    lines = [f"127.0.0.1 {line}" for line in lines if line and not line.startswith('#')]
+    return lines
+
 def process_tracker_text(text):
     lines = text.splitlines()
     lines = [line.strip() for line in lines if line.strip()]  # 去掉空行
@@ -54,21 +64,30 @@ def save_to_file(filename, content):
         f.write(content)
 
 def main():
+    # 从所有 URL 获取内容并处理
     all_text = ''
     for url in all_urls:
         all_text += fetch_text(url) + '\n'
-        
+    
+    # 获取并处理 anti-ad 域名，将其添加到 all_text
+    anti_ad_lines = []
+    for url in anti_ad_urls:
+        anti_ad_text = fetch_text(url)
+        anti_ad_lines.extend(process_anti_ad_text(anti_ad_text))
+    all_text += '\n'.join(anti_ad_lines) + '\n'
+
+    # 处理最终的 addhosts 内容
     processed_text = process_text(all_text)
     save_to_file('addhosts.txt', processed_text)
 
-    # 处理 Trackers 的内容
+    # 处理 Trackers 内容
     trackers_text = ''
     for url in tracker_urls:
         trackers_text += fetch_text(url) + '\n'
     
     processed_trackers_text = process_tracker_text(trackers_text)
 
-    # 在 processed_trackers_text 底部加上自定义的链接
+    # 追加自定义的 Tracker 链接
     processed_trackers_text += '\n' + '\n'.join(custom_tracker_urls) + '\n'
 
     save_to_file('Trackers.txt', processed_trackers_text)
