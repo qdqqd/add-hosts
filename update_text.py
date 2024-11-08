@@ -53,6 +53,11 @@ def process_anti_ad_text(text):
     lines = [f"127.0.0.1 {line}" for line in lines if line and not line.startswith('#')]
     return lines
 
+def extract_domains(text):
+    lines = text.splitlines()
+    domains = [line for line in lines if line and not line.startswith('#')]
+    return domains
+
 def process_tracker_text(text):
     lines = text.splitlines()
     lines = [line.strip() for line in lines if line.strip()]  # 去掉空行
@@ -69,12 +74,18 @@ def main():
     for url in all_urls:
         all_text += fetch_text(url) + '\n'
     
-    # 获取并处理 anti-ad 域名，将其添加到 all_text
+    # 获取并处理 anti-ad 域名，将其添加到 all_text 和 domain_list
     anti_ad_lines = []
+    domains = []
     for url in anti_ad_urls:
         anti_ad_text = fetch_text(url)
         anti_ad_lines.extend(process_anti_ad_text(anti_ad_text))
+        domains.extend(extract_domains(anti_ad_text))
     all_text += '\n'.join(anti_ad_lines) + '\n'
+
+    # 保存域名列表到 domain.txt
+    domain_text = '\n'.join(set(domains))
+    save_to_file('domain.txt', domain_text)
 
     # 处理最终的 addhosts 内容
     processed_text = process_text(all_text)
