@@ -2704,8 +2704,6 @@ udp://trackarr.org:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://tracker.beeimg.com:6969/announce
 
 https://tr.zukizuki.org:443/announce
@@ -2739,6 +2737,8 @@ udp://martin-gebhardt.eu:25/announce
 udp://tracker.deadorbit.nl:6969/announce
 
 https://p2p.azu.red:443/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -2804,13 +2804,13 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://kiryuu-test.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
 https://tracker.cloudit.top:443/announce
+
+udp://www.torrent.eu.org:451/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -2822,11 +2822,11 @@ udp://tracker-udp.gbitt.info:80/announce
 
 https://api.ipv4online.uk:443/announce
 
+udp://jutone.com:6969/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tk4.leechshield.link:6969/announce
-
-udp://jutone.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -2838,9 +2838,9 @@ https://tracker.uraniumhexafluori.de:443/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://tr1.aag.moe:2095/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+http://tr1.aag.moe:2095/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -2902,9 +2902,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://tracker.birkenwald.de:6969/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -2950,9 +2950,9 @@ https://1337.abcvg.info:443/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -5040,8 +5040,6 @@ https://trackers.mlsub.net:443/announce
 
 http://fleira.no:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://5.181.188.172:1337/announce
 
 https://tr.zukizuki.org:443/announce
@@ -5051,6 +5049,8 @@ udp://tracker.iperson.xyz:6969/announce
 http://tracker.netmap.top:6969/announce
 
 https://tracker.gcrenwp.top:443/announce
+
+https://tracker.leechshield.link:443/announce
 
 http://159.148.57.222:6969/announce
 
@@ -5068,6 +5068,8 @@ https://tracker.ipfsscan.io:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -5077,8 +5079,6 @@ http://tracker.bt4g.com:2095/announce
 udp://89.234.156.205:451/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://evan.im:6969/announce
 
