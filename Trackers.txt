@@ -2838,13 +2838,13 @@ http://open.acgtracker.com:1096/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://tracker.darkness.services:6969/announce
-
 http://tr1.aag.moe:2095/announce
 
-https://tracker.pmman.tech:443/announce
+udp://tracker.darkness.services:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -2852,17 +2852,17 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://bt.rer.lol:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 udp://tracker.jamesthebard.net:6969/announce
 
+https://tracker.uraniumhexafluori.de:443/announce
+
 udp://tk2.trackerservers.com:8080/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
 https://retracker.x2k.ru:443/announce
-
-udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker4.leechshield.link:6969/announce
 
@@ -2878,9 +2878,9 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://wepzone.net:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://open.tracker.cl:1337/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -2892,9 +2892,9 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 https://tracker.ipfsscan.io:443/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -2938,9 +2938,9 @@ udp://tracker.waaa.moe:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://tracker.xor.st:6969/announce
-
 http://t.acg.rip:6699/announce
+
+udp://tracker.xor.st:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -2948,17 +2948,17 @@ http://cn.pcfreetime.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-http://tracker.skyts.net:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
 https://tracker.jobser.eu:443/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://yahor.of.by:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -5084,9 +5084,11 @@ http://tracker.bt4g.com:2095/announce
 
 udp://211.23.142.127:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
 udp://odd-hd.fr:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://moonburrow.club:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -5095,8 +5097,6 @@ udp://bandito.byterunner.io:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
-
-udp://moonburrow.club:6969/announce
 
 udp://211.75.210.220:6969/announce
 
