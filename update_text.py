@@ -60,9 +60,9 @@ def extract_domains(text):
 
 def process_tracker_text(text):
     lines = text.splitlines()
-    lines = [line.strip() for line in lines if line.strip()]  # 去掉空行
-    lines = list(set(lines))  # 去重
-    return '\n'.join(lines)
+    lines = [line.strip() for line in lines if line.strip() != '']  # 去掉只包含空白的行
+    return '\n\n'.join(lines)  # 用两个换行符连接，以确保条目之间有空行
+
 
 def save_to_file(filename, content):
     with open(filename, 'w') as f:
@@ -91,7 +91,7 @@ def main():
     processed_text = process_text(all_text)
     save_to_file('addhosts.txt', processed_text)
 
-    # 处理 Trackers 内容
+# 处理 Trackers 内容
     trackers_text = ''
     for url in tracker_urls:
         trackers_text += fetch_text(url) + '\n'
@@ -99,7 +99,7 @@ def main():
     processed_trackers_text = process_tracker_text(trackers_text)
 
     # 追加自定义的 Tracker 链接
-    processed_trackers_text += '\n' + '\n'.join(custom_tracker_urls) + '\n'
+    processed_trackers_text += '\n\n' + '\n\n'.join(custom_tracker_urls) + '\n'  # 确保自定义跟踪器之间也有空行
 
     save_to_file('Trackers.txt', processed_trackers_text)
 
