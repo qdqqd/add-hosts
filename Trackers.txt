@@ -2960,11 +2960,11 @@ udp://opentracker.io:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://jutone.com:6969/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
 
 https://api.ipv4online.uk:443/announce
+
+udp://jutone.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -2976,9 +2976,9 @@ udp://tk1.trackerservers.com:8080/announce
 
 https://mathkangaroo.jp:443/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -2992,9 +2992,9 @@ udp://tracker2.itzmx.com:6961/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tracker.jamesthebard.net:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -5366,6 +5366,8 @@ udp://211.23.142.127:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+http://tracker.bt4g.com:2095/announce
+
 udp://odd-hd.fr:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -5381,6 +5383,8 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 udp://211.75.210.220:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://martin-gebhardt.eu:25/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
