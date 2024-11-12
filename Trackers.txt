@@ -2924,9 +2924,9 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 https://tracker.cloudit.top:443/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -2954,9 +2954,9 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 https://mathkangaroo.jp:443/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -2972,21 +2972,21 @@ udp://tracker.jamesthebard.net:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
 
-udp://tracker4.leechshield.link:6969/announce
+udp://bt.rer.lol:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 https://retracker.x2k.ru:443/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://tr2.trkb.ru:443/announce
-
 http://tracker.bittor.pw:1337/announce
+
+https://tr2.trkb.ru:443/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -2994,9 +2994,9 @@ udp://wepzone.net:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 udp://open.tracker.cl:1337/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -3058,9 +3058,9 @@ http://t.acg.rip:6699/announce
 
 udp://tracker.waaa.moe:6969/announce
 
-http://open.tracker.ink:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+http://open.tracker.ink:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
@@ -5320,6 +5320,8 @@ https://tracker.lilithraws.org:443/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+udp://ns575949.ip-51-222-82.net:6969/announce
+
 https://tracker.ipfsscan.io:443/announce
 
 udp://51.81.222.188:6969/announce
@@ -5356,6 +5358,8 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 
 udp://bandito.byterunner.io:6969/announce
 
+udp://211.75.210.220:6969/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -5368,9 +5372,9 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://tracker.tryhackx.org:6969/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -5384,15 +5388,15 @@ udp://explodie.org:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
+udp://open.stealth.si:80/announce
+
 http://public.tracker.vraphim.com:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-udp://open.stealth.si:80/announce
+http://taciturn-shadow.spb.ru:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
