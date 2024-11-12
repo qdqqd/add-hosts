@@ -2994,9 +2994,9 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -3006,9 +3006,9 @@ udp://tracker3.itzmx.com:6961/announce
 
 https://retracker.x2k.ru:443/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://tracker4.leechshield.link:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -3082,9 +3082,9 @@ udp://open.u-p.pw:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://tracker.xor.st:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://tracker.xor.st:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
