@@ -2918,13 +2918,13 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -2948,6 +2948,8 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 http://tracker.renfei.net:8080/announce
 
 https://tracker.cloudit.top:443/announce
@@ -2955,8 +2957,6 @@ https://tracker.cloudit.top:443/announce
 udp://www.torrent.eu.org:451/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://opentracker.io:6969/announce
 
@@ -2988,11 +2988,11 @@ udp://tracker.cyberia.is:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
+udp://7p41a8967.wicp.vip:22222/announce
+
 http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
-
-udp://7p41a8967.wicp.vip:22222/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -3002,13 +3002,13 @@ udp://tk2.trackerservers.com:8080/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-https://retracker.x2k.ru:443/announce
-
 udp://tracker4.leechshield.link:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
+https://retracker.x2k.ru:443/announce
 
 https://threads.canofsocks.com:443/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -3034,9 +3034,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 https://tracker.ipfsscan.io:443/announce
 
-https://tracker1.520.jp:443/announce
-
 udp://1c.premierzal.ru:6969/announce
+
+https://tracker1.520.jp:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -5412,11 +5412,7 @@ udp://explodie.org:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-http://public.tracker.vraphim.com:6969/announce
-
 https://api.ipv4online.uk:443/announce
-
-udp://open.stealth.si:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
