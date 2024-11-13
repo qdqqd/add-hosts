@@ -2948,17 +2948,17 @@ http://tracker.renfei.net:8080/announce
 
 udp://www.torrent.eu.org:451/announce
 
-http://canardscitrons.nohost.me:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://tk4.leechshield.link:6969/announce
+
+https://api.ipv4online.uk:443/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -3026,9 +3026,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -3064,9 +3064,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://ryjer.com:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://ryjer.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -5378,6 +5378,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
+udp://211.23.142.127:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -5388,6 +5390,8 @@ http://tracker.bt4g.com:2095/announce
 
 https://tracker.cloudit.top:443/announce
 
+http://taciturn-shadow.spb.ru:6969/announce
+
 udp://211.75.210.220:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -5395,8 +5399,6 @@ udp://tracker.srv00.com:6969/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
 udp://bandito.byterunner.io:6969/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
