@@ -3014,9 +3014,9 @@ udp://wepzone.net:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 udp://tracker.edkj.club:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -3030,17 +3030,17 @@ https://pybittrack.retiolus.net:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://cq.kmzs123.cn:17272/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -3305,8 +3305,6 @@ udp://chihaya.de:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 https://tracker.jiesen.life:8443/announce
-
-udp://cloud.samtechnic.ir:6969/announce
 
 udp://tracker.trojangogogo.site:8080/announce
 
@@ -5374,11 +5372,11 @@ udp://89.234.156.205:451/announce
 
 udp://evan.im:6969/announce
 
+http://taciturn-shadow.spb.ru:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://odd-hd.fr:6969/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 udp://211.23.142.127:6969/announce
 
