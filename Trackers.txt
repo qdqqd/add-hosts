@@ -2942,9 +2942,9 @@ udp://retracker.lanta.me:2710/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -2996,9 +2996,9 @@ udp://tracker.jamesthebard.net:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://tracker4.leechshield.link:6969/announce
 
@@ -5370,11 +5370,11 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
+udp://ttk2.nbaonlineservice.com:6969/announce
+
 https://tracker.ipfsscan.io:443/announce
 
 udp://51.81.222.188:6969/announce
-
-udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -5389,8 +5389,6 @@ udp://evan.im:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://211.23.142.127:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -5422,9 +5420,9 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -5446,9 +5444,9 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker.edkj.club:6969/announce
 
-http://public.tracker.vraphim.com:6969/announce
-
 https://mathkangaroo.jp:443/announce
+
+http://public.tracker.vraphim.com:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
