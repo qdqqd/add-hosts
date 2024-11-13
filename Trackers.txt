@@ -2834,6 +2834,8 @@ udp://z.mercax.com:53/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://tracker.lilithraws.org:443/announce
+
 https://www.peckservers.com:9443/announce
 
 https://trackers.mlsub.net:443/announce
@@ -2863,8 +2865,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://moonburrow.club:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-https://tracker.lilithraws.org:443/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -2948,13 +2948,13 @@ https://tracker.cloudit.top:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://opentracker.io:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -2986,9 +2986,9 @@ udp://tracker.darkness.services:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 http://tr1.aag.moe:2095/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -3032,11 +3032,11 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 https://tracker.cangku.moe:443/announce
 
 https://pybittrack.retiolus.net:443/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -3060,9 +3060,9 @@ udp://tr3.ysagin.top:2715/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-http://rfc5746.mywaifu.best:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+http://rfc5746.mywaifu.best:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -5416,11 +5416,11 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+http://taciturn-shadow.spb.ru:6969/announce
+
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
@@ -5430,9 +5430,9 @@ udp://ismaarino.com:1234/announce
 
 udp://open.demonii.com:1337/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -5444,9 +5444,9 @@ udp://open.stealth.si:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker.edkj.club:6969/announce
-
 https://mathkangaroo.jp:443/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
