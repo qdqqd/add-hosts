@@ -2914,8 +2914,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.gigantino.net:6969/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -2923,6 +2921,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -2938,19 +2938,19 @@ http://saltwood.top:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 https://tracker.cloudit.top:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+http://canardscitrons.nohost.me:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://opentracker.io:6969/announce
 
@@ -3036,9 +3036,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 https://tracker1.520.jp:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://tracker.cangku.moe:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -3078,9 +3078,9 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://api.clasificadosrapidos.com:53/announce
-
 http://t.acg.rip:6699/announce
+
+udp://api.clasificadosrapidos.com:53/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -5392,9 +5392,11 @@ udp://211.23.142.127:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-http://tracker.bt4g.com:2095/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
+
+http://tracker.bt4g.com:2095/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -5418,9 +5420,9 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-udp://serpb.vpsburti.com:6969/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
+
+udp://serpb.vpsburti.com:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
