@@ -2938,11 +2938,11 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://retracker.lanta.me:2710/announce
-
 http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://opentracker.io:6969/announce
+
+udp://retracker.lanta.me:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -2950,9 +2950,9 @@ udp://www.torrent.eu.org:451/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -3014,23 +3014,23 @@ udp://wepzone.net:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
+https://tracker.ipfsscan.io:443/announce
+
 udp://tracker.edkj.club:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-https://tracker.ipfsscan.io:443/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
-
-udp://tracker-us.silksa.co.za:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
+udp://tracker-us.silksa.co.za:6969/announce
+
 https://pybittrack.retiolus.net:443/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 https://tracker1.520.jp:443/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -5356,11 +5356,13 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
-
 udp://51.81.222.188:6969/announce
 
+udp://ttk2.nbaonlineservice.com:6969/announce
+
 https://tracker.ipfsscan.io:443/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -5371,8 +5373,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://evan.im:6969/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -5410,8 +5410,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://ismaarino.com:1234/announce
 
 udp://open.demonii.com:1337/announce
@@ -5430,13 +5428,11 @@ udp://open.stealth.si:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-https://mathkangaroo.jp:443/announce
-
 http://tracker.edkj.club:6969/announce
 
-https://tracker.bjut.jp:443/announce
+https://mathkangaroo.jp:443/announce
 
-http://public.tracker.vraphim.com:6969/announce
+https://tracker.bjut.jp:443/announce
 
 wss://tracker.magnetoo.io:443/announce
 
