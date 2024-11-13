@@ -3034,9 +3034,9 @@ http://ch3oh.ru:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://open.tracker.cl:1337/announce
-
 https://tracker.ipfsscan.io:443/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -3066,9 +3066,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-http://tracker.enitin.xyz:80/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
+
+http://tracker.enitin.xyz:80/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -3100,9 +3100,9 @@ http://open.tracker.ink:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://tracker.waaa.moe:6969/announce
-
 udp://yahor.of.by:6969/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 udp://api.clasificadosrapidos.com:53/announce
 
