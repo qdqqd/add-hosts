@@ -2956,9 +2956,9 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://tk4.leechshield.link:6969/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -2968,9 +2968,9 @@ udp://opentracker.io:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://retracker.lanta.me:2710/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -2992,15 +2992,15 @@ udp://tracker4.itzmx.com:2710/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 udp://tracker.darkness.services:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 https://tracker.pmman.tech:443/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -3044,9 +3044,9 @@ http://tracker.mywaifu.best:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -3054,17 +3054,17 @@ https://tracker1.520.jp:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://cq.kmzs123.cn:17272/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://1c.premierzal.ru:6969/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 udp://tracker.birkenwald.de:6969/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -3132,8 +3132,6 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
 
-http://tracker.files.fm:6969/announce
-
 http://region.nl1.privex.cc:6969/announce
 
 https://p4p.arenabg.com:1337/announce
@@ -3149,6 +3147,8 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://tracker.btsync.gq:233/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.files.fm:6969/announce
 
 http://retracker.joxnet.ru:80/announce
 
