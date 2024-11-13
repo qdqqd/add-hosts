@@ -2906,6 +2906,8 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://bandito.byterunner.io:6969/announce
 
 udp://ismaarino.com:1234/announce
@@ -2913,8 +2915,6 @@ udp://ismaarino.com:1234/announce
 http://public.tracker.vraphim.com:6969/announce
 
 http://bt.okmp3.ru:2710/announce
-
-udp://run.publictracker.xyz:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -2962,9 +2962,9 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-http://tracker.renfei.net:8080/announce
-
 udp://opentracker.io:6969/announce
+
+http://tracker.renfei.net:8080/announce
 
 udp://tk4.leechshield.link:6969/announce
 
@@ -2990,15 +2990,15 @@ https://mathkangaroo.jp:443/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://open.acgtracker.com:1096/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-http://canardscitrons.nohost.me:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.darkness.services:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -3060,9 +3060,9 @@ udp://cq.kmzs123.cn:17272/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 udp://d13bttrck.duckdns.org:6969/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
