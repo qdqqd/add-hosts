@@ -3008,11 +3008,11 @@ http://tracker.mywaifu.best:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
+https://tracker1.520.jp:443/announce
+
 https://tracker.cangku.moe:443/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
-
-https://tracker1.520.jp:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -3030,9 +3030,9 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 http://tracker.enitin.xyz:80/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 udp://tracker1.myporn.club:9337/announce
 
