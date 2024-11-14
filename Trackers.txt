@@ -2926,15 +2926,15 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
+udp://tk4.leechshield.link:6969/announce
 
-udp://moonburrow.club:6969/announce
+udp://tracker.breizh.pm:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tk4.leechshield.link:6969/announce
+udp://moonburrow.club:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -2952,9 +2952,9 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://tk2v6.trackerservers.com:8080/announce
-
 http://kiryuu-test.mywaifu.best:6969/announce
+
+udp://tk2v6.trackerservers.com:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -2984,9 +2984,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.darkness.services:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
@@ -3036,9 +3036,9 @@ udp://tracker.edkj.club:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.cangku.moe:443/announce
 
