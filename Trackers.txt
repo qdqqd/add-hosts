@@ -2906,6 +2906,8 @@ udp://ismaarino.com:1234/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
+http://tracker.beeimg.com:6969/announce
+
 http://bt.okmp3.ru:2710/announce
 
 udp://open.dstud.io:6969/announce
@@ -2913,8 +2915,6 @@ udp://open.dstud.io:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.gigantino.net:6969/announce
-
-http://tracker.beeimg.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -2924,9 +2924,9 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://tk4.leechshield.link:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -2968,9 +2968,9 @@ udp://retracker.lanta.me:2710/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 https://api.ipv4online.uk:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -2978,9 +2978,9 @@ udp://tk1.trackerservers.com:8080/announce
 
 https://mathkangaroo.jp:443/announce
 
-udp://jutone.com:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://jutone.com:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -2994,9 +2994,9 @@ https://tracker.pmman.tech:443/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -3018,9 +3018,9 @@ http://tracker.bittor.pw:1337/announce
 
 https://retracker.x2k.ru:443/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://ipv4.rer.lol:2710/announce
+
+https://threads.canofsocks.com:443/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -3088,9 +3088,9 @@ udp://ryjer.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://open.u-p.pw:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
