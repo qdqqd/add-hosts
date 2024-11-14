@@ -2858,6 +2858,8 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+udp://tk4.leechshield.link:6969/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -2865,8 +2867,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://martin-gebhardt.eu:25/announce
 
 https://tracker.leechshield.link:443/announce
-
-udp://tk4.leechshield.link:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -2924,9 +2924,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://moonburrow.club:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -2974,13 +2974,13 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://tr1.aag.moe:2095/announce
 
-http://canardscitrons.nohost.me:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -3026,9 +3026,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://d13bttrck.duckdns.org:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -3066,9 +3066,9 @@ http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 udp://yahor.of.by:6969/announce
 
@@ -3076,13 +3076,13 @@ udp://tracker.waaa.moe:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tracker.xor.st:6969/announce
-
-udp://api.clasificadosrapidos.com:53/announce
+http://tracker.skyts.net:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-http://tracker.skyts.net:6969/announce
+udp://tracker.xor.st:6969/announce
+
+udp://api.clasificadosrapidos.com:53/announce
 
 https://tracker.jobser.eu:443/announce
 
