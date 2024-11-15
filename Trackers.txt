@@ -2914,9 +2914,9 @@ http://tk.leechshield.link:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -2928,11 +2928,11 @@ https://sparkle.ghostchu-services.top:443/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+udp://u4.trakx.crim.ist:1337/announce
+
 udp://u6.trakx.crim.ist:1337/announce
 
 http://saltwood.top:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -2962,9 +2962,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://mathkangaroo.jp:443/announce
 
-udp://tk4.leechshield.link:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://tk4.leechshield.link:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -3042,9 +3042,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -3062,9 +3062,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-http://rfc5746.mywaifu.best:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+http://rfc5746.mywaifu.best:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
