@@ -2864,8 +2864,6 @@ udp://odd-hd.fr:6969/announce
 
 udp://evan.im:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.com:6969/announce
@@ -2873,6 +2871,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://ns1.monolithindustries.com:6969/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -2966,15 +2966,15 @@ https://mathkangaroo.jp:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://jutone.com:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-http://open.acgtracker.com:1096/announce
+udp://moonburrow.club:6969/announce
 
 udp://tracker.darkness.services:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
