@@ -2926,21 +2926,21 @@ udp://opentracker.io:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
 https://tracker.cloudit.top:443/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
 https://api.ipv4online.uk:443/announce
 
+udp://tk1.trackerservers.com:8080/announce
+
 https://tracker.bjut.jp:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://tk1.trackerservers.com:8080/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -2954,9 +2954,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tracker.darkness.services:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -2992,9 +2992,9 @@ https://tr2.trkb.ru:443/announce
 
 udp://wepzone.net:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://ch3oh.ru:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://pybittrack.retiolus.net:443/announce
 
@@ -3040,9 +3040,9 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 udp://tracker.theoks.net:6969/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -3076,9 +3076,9 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://tracker.waaa.moe:6969/announce
 
-udp://tracker.xor.st:6969/announce
-
 udp://freedomalternative.com:6969/announce
+
+udp://tracker.xor.st:6969/announce
 
 udp://ftp.pet:2710/announce
 
