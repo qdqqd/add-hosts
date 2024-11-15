@@ -2924,9 +2924,9 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://opentracker.io:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://tracker.renfei.net:8080/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -2946,11 +2946,11 @@ https://mathkangaroo.jp:443/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -2958,23 +2958,23 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-https://tracker.pmman.tech:443/announce
-
 http://tracker.bittor.pw:1337/announce
+
+https://tracker.pmman.tech:443/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
-udp://tk4.leechshield.link:6969/announce
-
 udp://tracker.jamesthebard.net:6969/announce
+
+udp://tk4.leechshield.link:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://tracker4.leechshield.link:6969/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -2996,9 +2996,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+udp://bt.rer.lol:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -3048,9 +3048,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-http://rfc5746.mywaifu.best:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+http://rfc5746.mywaifu.best:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
