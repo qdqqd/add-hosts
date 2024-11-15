@@ -2878,8 +2878,6 @@ http://tk.leechshield.link:80/announce
 
 http://tracker.beeimg.com:6969/announce
 
-http://bt.okmp3.ru:2710/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 udp://open.dstud.io:6969/announce
@@ -2892,21 +2890,23 @@ udp://tracker.gigantino.net:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://bt.okmp3.ru:2710/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
+udp://u4.trakx.crim.ist:1337/announce
+
 udp://tracker.qu.ax:6969/announce
 
 udp://t.overflow.biz:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -2946,11 +2946,11 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 http://open.acgtracker.com:1096/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://jutone.com:6969/announce
 
@@ -3097,8 +3097,6 @@ http://0205.uptm.ch:6969/announce
 http://region.nl1.privex.cc:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
-
-udp://api.clasificadosrapidos.com:53/announce
 
 https://p4p.arenabg.com:1337/announce
 
@@ -3589,6 +3587,8 @@ udp://tracker.kmzs123.cf:17272/announce
 http://tracker.ismaarino.com:8880/announce
 
 udp://tracker.cloaka.xyz:1337/announce
+
+udp://api.clasificadosrapidos.com:53/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
