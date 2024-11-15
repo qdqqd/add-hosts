@@ -2872,8 +2872,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 https://tracker.leechshield.link:443/announce
@@ -2891,6 +2889,8 @@ udp://serpb.vpsburti.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+http://ipv6.rer.lol:6969/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
@@ -2928,11 +2928,11 @@ https://sparkle.ghostchu-services.top:443/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 http://saltwood.top:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -2948,9 +2948,9 @@ http://tracker.renfei.net:8080/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tk4.leechshield.link:6969/announce
-
 udp://retracker.lanta.me:2710/announce
+
+udp://tk4.leechshield.link:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -2970,11 +2970,11 @@ udp://jutone.com:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://tracker.darkness.services:6969/announce
 
 http://open.acgtracker.com:1096/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
@@ -3000,23 +3000,23 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 https://threads.canofsocks.com:443/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://retracker.x2k.ru:443/announce
 
 https://tr2.trkb.ru:443/announce
 
-udp://ipv4.rer.lol:2710/announce
+udp://wepzone.net:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
-
-udp://wepzone.net:6969/announce
 
 http://ch3oh.ru:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
+
+udp://ipv4.rer.lol:2710/announce
 
 https://pybittrack.retiolus.net:443/announce
 
@@ -3076,9 +3076,9 @@ udp://ryjer.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://t.acg.rip:6699/announce
-
 udp://yahor.of.by:6969/announce
+
+http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
