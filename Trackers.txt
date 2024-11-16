@@ -2884,9 +2884,9 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -2896,9 +2896,9 @@ http://bvarf.tracker.sh:2086/announce
 
 http://saltwood.top:6969/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -2924,11 +2924,11 @@ http://tracker.bittor.pw:1337/announce
 
 https://mathkangaroo.jp:443/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://ipv6.rer.lol:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -2952,11 +2952,11 @@ udp://tracker.jamesthebard.net:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker4.leechshield.link:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -2992,21 +2992,21 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://tracker1.520.jp:443/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -3056,9 +3056,9 @@ udp://tracker.waaa.moe:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://tracker.xor.st:6969/announce
-
 udp://tracker.netmap.top:6969/announce
+
+udp://tracker.xor.st:6969/announce
 
 udp://ftp.pet:2710/announce
 
@@ -3070,11 +3070,11 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-https://tracker.jobser.eu:443/announce
-
 http://region.nl1.privex.cc:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
+
+https://tracker.jobser.eu:443/announce
 
 https://p4p.arenabg.com:1337/announce
 
