@@ -2886,17 +2886,17 @@ udp://tracker.gmi.gd:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://tracker.filemail.com:6969/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker.qu.ax:6969/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 udp://t.overflow.biz:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -2922,15 +2922,17 @@ https://tracker.cloudit.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
-http://ipv6.rer.lol:6969/announce
-
 https://api.ipv4online.uk:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
+http://ipv6.rer.lol:6969/announce
+
 https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
+
+http://tracker.bittor.pw:1337/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
@@ -2938,19 +2940,17 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://tracker.bittor.pw:1337/announce
+udp://jutone.com:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
-
-udp://jutone.com:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 https://tracker.pmman.tech:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -2970,9 +2970,9 @@ udp://tk2.trackerservers.com:8080/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://tracker3.itzmx.com:6961/announce
+
+udp://moonburrow.club:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -3020,9 +3020,9 @@ http://tracker.enitin.xyz:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -3032,9 +3032,9 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
