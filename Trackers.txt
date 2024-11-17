@@ -2844,6 +2844,8 @@ udp://odd-hd.fr:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+https://tracker.leechshield.link:443/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://open.demonii.com:1337/announce
@@ -2855,8 +2857,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://serpb.vpsburti.com:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
-
-https://tracker.leechshield.link:443/announce
 
 http://tk.leechshield.link:80/announce
 
@@ -2944,19 +2944,19 @@ udp://open.dstud.io:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://jutone.com:6969/announce
-
 udp://tracker.darkness.services:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
+udp://jutone.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 
 https://pybittrack.retiolus.net:443/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -2978,9 +2978,9 @@ udp://wepzone.net:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://retracker.x2k.ru:443/announce
-
 https://tr2.trkb.ru:443/announce
+
+https://retracker.x2k.ru:443/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -3034,17 +3034,17 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
+http://cn.pcfreetime.com:6969/announce
 
 udp://yahor.of.by:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
+udp://tracker.ccp.ovh:6969/announce
 
 http://t.acg.rip:6699/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://ryjer.com:6969/announce
 
@@ -3052,9 +3052,9 @@ http://open.tracker.ink:6969/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
+
+udp://open.u-p.pw:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
