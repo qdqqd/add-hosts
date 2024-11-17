@@ -2896,6 +2896,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
+http://tracker.bittor.pw:1337/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -2904,17 +2906,15 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 https://sparkle.ghostchu-services.top:443/announce
 
 http://bvarf.tracker.sh:2086/announce
 
 http://saltwood.top:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 https://tracker.ipfsscan.io:443/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -2932,8 +2932,6 @@ udp://retracker.lanta.me:2710/announce
 
 https://api.ipv4online.uk:443/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
 https://tracker.bjut.jp:443/announce
@@ -2950,13 +2948,15 @@ udp://tracker.darkness.services:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
+https://pybittrack.retiolus.net:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
+udp://7p41a8967.wicp.vip:22222/announce
+
 https://tracker.pmman.tech:443/announce
 
-https://pybittrack.retiolus.net:443/announce
+udp://bt.rer.lol:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -3000,15 +3000,15 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-https://tracker1.520.jp:443/announce
-
 udp://cq.kmzs123.cn:17272/announce
+
+https://tracker1.520.jp:443/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -3024,9 +3024,9 @@ udp://d13bttrck.duckdns.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -3036,9 +3036,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://yahor.of.by:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -3046,11 +3046,11 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://t.acg.rip:6699/announce
 
+http://open.tracker.ink:6969/announce
+
 udp://tr3.ysagin.top:2715/announce
 
 udp://ryjer.com:6969/announce
-
-http://open.tracker.ink:6969/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
