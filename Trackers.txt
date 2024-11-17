@@ -2842,9 +2842,9 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -2870,9 +2870,9 @@ udp://opentracker.io:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-udp://www.torrent.eu.org:451/announce
-
 https://tracker.cloudit.top:443/announce
+
+udp://www.torrent.eu.org:451/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -2908,13 +2908,13 @@ http://tr1.aag.moe:2095/announce
 
 udp://tk4.leechshield.link:6969/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 udp://tracker4.leechshield.link:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -2932,9 +2932,9 @@ https://tr2.trkb.ru:443/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://moonburrow.club:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -2946,15 +2946,13 @@ http://canardscitrons.nohost.me:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -2965,6 +2963,8 @@ udp://1c.premierzal.ru:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
@@ -2994,9 +2994,9 @@ http://rfc5746.mywaifu.best:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 udp://ryjer.com:6969/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 http://t.acg.rip:6699/announce
 
@@ -3006,19 +3006,19 @@ udp://open.u-p.pw:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-http://tracker.skyts.net:6969/announce
-
-udp://free.publictracker.xyz:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
+http://tracker.skyts.net:6969/announce
+
 udp://tracker.kmzs123.cf:17272/announce
 
-https://ipv4.rer.lol:2710/announce
+udp://free.publictracker.xyz:6969/announce
 
 udp://tracker.netmap.top:6969/announce
+
+https://ipv4.rer.lol:2710/announce
 
 udp://freedomalternative.com:6969/announce
 
