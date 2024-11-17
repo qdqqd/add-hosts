@@ -3002,13 +3002,13 @@ http://ch3oh.ru:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://tracker4.leechshield.link:6969/announce
+http://tracker.mywaifu.best:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tk4.leechshield.link:6969/announce
+udp://tracker4.leechshield.link:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
+udp://tk4.leechshield.link:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -3068,9 +3068,9 @@ udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 http://t.acg.rip:6699/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 http://open.tracker.ink:6969/announce
 
