@@ -2908,11 +2908,11 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://ismaarino.com:1234/announce
 
+http://tracker.bittor.pw:1337/announce
+
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -2998,13 +2998,13 @@ https://tr2.trkb.ru:443/announce
 
 https://retracker.x2k.ru:443/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
-udp://tk4.leechshield.link:6969/announce
-
 http://ch3oh.ru:6969/announce
 
+udp://tracker4.leechshield.link:6969/announce
+
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://tk4.leechshield.link:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -3020,9 +3020,9 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -3036,11 +3036,11 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
+https://tracker.cangku.moe:443/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-https://tracker.cangku.moe:443/announce
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -3092,11 +3092,11 @@ udp://tracker.netmap.top:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
+http://tracker.pcfreetime.com:6969/announce
+
 udp://ftp.pet:2710/announce
 
 udp://tracker.waaa.moe:6969/announce
-
-http://tracker.pcfreetime.com:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
