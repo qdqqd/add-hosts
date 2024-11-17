@@ -2870,9 +2870,9 @@ udp://opentracker.io:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://www.torrent.eu.org:451/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -2906,9 +2906,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
-udp://tk4.leechshield.link:6969/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+udp://tk4.leechshield.link:6969/announce
 
 udp://tracker4.leechshield.link:6969/announce
 
@@ -2926,9 +2926,9 @@ udp://wepzone.net:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://tr2.trkb.ru:443/announce
-
 https://retracker.x2k.ru:443/announce
+
+https://tr2.trkb.ru:443/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -2958,15 +2958,13 @@ udp://cq.kmzs123.cn:17272/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
-
-http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -2975,6 +2973,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://bt.ktrackers.com:6666/announce
 
 https://tracker.cangku.moe:443/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -3004,13 +3004,13 @@ https://tracker.uraniumhexafluori.de:443/announce
 
 udp://open.u-p.pw:6969/announce
 
-https://1337.abcvg.info:443/announce
-
 udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.cf:17272/announce
+
+https://1337.abcvg.info:443/announce
 
 http://tracker.skyts.net:6969/announce
 
