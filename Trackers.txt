@@ -3004,9 +3004,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker4.leechshield.link:6969/announce
 
-udp://tk4.leechshield.link:6969/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://tk4.leechshield.link:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -3020,15 +3020,15 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 http://tracker.enitin.xyz:80/announce
 
