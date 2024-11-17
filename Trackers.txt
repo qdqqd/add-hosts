@@ -3004,15 +3004,15 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tracker4.leechshield.link:6969/announce
-
-udp://tk4.leechshield.link:6969/announce
 
 udp://moonburrow.club:6969/announce
 
 udp://open.tracker.cl:1337/announce
+
+udp://tk4.leechshield.link:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -3070,9 +3070,9 @@ udp://tracker.kmzs123.cf:17272/announce
 
 http://t.acg.rip:6699/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 http://open.tracker.ink:6969/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://ryjer.com:6969/announce
 
@@ -3082,17 +3082,17 @@ udp://open.u-p.pw:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 http://tracker.skyts.net:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+https://tracker.uraniumhexafluori.de:443/announce
+
 udp://tracker.netmap.top:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://freedomalternative.com:6969/announce
 
 udp://ftp.pet:2710/announce
 
