@@ -2948,9 +2948,9 @@ udp://opentracker.io:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-https://tracker.cloudit.top:443/announce
-
 http://ipv4.rer.lol:2710/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -3018,9 +3018,9 @@ udp://bt.rer.lol:6969/announce
 
 udp://tracker4.leechshield.link:6969/announce
 
-udp://tk4.leechshield.link:6969/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://tk4.leechshield.link:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -3028,9 +3028,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 udp://cq.kmzs123.cn:17272/announce
+
+udp://tracker.birkenwald.de:6969/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -3074,9 +3074,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 http://open.tracker.ink:6969/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://ryjer.com:6969/announce
 
