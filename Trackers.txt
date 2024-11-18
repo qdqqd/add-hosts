@@ -2946,9 +2946,9 @@ udp://www.torrent.eu.org:451/announce
 
 udp://opentracker.io:6969/announce
 
-http://tracker.renfei.net:8080/announce
-
 http://ipv4.rer.lol:2710/announce
+
+http://tracker.renfei.net:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -3016,9 +3016,9 @@ udp://tracker.edkj.club:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://tk4.leechshield.link:6969/announce
 
