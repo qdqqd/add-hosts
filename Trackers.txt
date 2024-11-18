@@ -2946,11 +2946,11 @@ https://api.ipv4online.uk:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-https://tracker.bjut.jp:443/announce
-
 http://open.acgtracker.com:1096/announce
 
 https://pybittrack.retiolus.net:443/announce
+
+https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -3026,9 +3026,9 @@ udp://tracker4.leechshield.link:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -3074,17 +3074,17 @@ https://1337.abcvg.info:443/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+http://tracker.pcfreetime.com:6969/announce
+
 udp://free.publictracker.xyz:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://tracker.netmap.top:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://ftp.pet:2710/announce
+
+udp://freedomalternative.com:6969/announce
 
 udp://tracker.waaa.moe:6969/announce
 
