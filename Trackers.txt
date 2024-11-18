@@ -2846,13 +2846,13 @@ http://tracker.beeimg.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -2938,9 +2938,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://wepzone.net:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -2970,17 +2970,17 @@ http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker4.leechshield.link:6969/announce
 
-udp://tk4.leechshield.link:6969/announce
-
 http://tracker.enitin.xyz:80/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+udp://tk4.leechshield.link:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 udp://cq.kmzs123.cn:17272/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -3036,9 +3036,9 @@ udp://tr3.ysagin.top:2715/announce
 
 https://1337.abcvg.info:443/announce
 
-http://tracker.skyts.net:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -3046,11 +3046,11 @@ udp://tracker.netmap.top:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 udp://ftp.pet:2710/announce
 
 udp://tracker.waaa.moe:6969/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
