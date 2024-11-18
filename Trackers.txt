@@ -2898,13 +2898,13 @@ udp://seedpeer.net:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://ismaarino.com:1234/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -2960,9 +2960,9 @@ udp://tracker.darkness.services:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://jutone.com:6969/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+udp://jutone.com:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -3018,9 +3018,9 @@ https://tracker1.520.jp:443/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
-udp://tk4.leechshield.link:6969/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://tk4.leechshield.link:6969/announce
 
 udp://tracker4.leechshield.link:6969/announce
 
@@ -3036,13 +3036,13 @@ https://tracker.cangku.moe:443/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.cf:17272/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -3070,9 +3070,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 https://1337.abcvg.info:443/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://free.publictracker.xyz:6969/announce
 
