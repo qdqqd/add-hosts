@@ -2874,7 +2874,11 @@ http://tk.leechshield.link:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://bandito.byterunner.io:6969/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
@@ -2883,8 +2887,6 @@ http://tracker.beeimg.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -2899,8 +2901,6 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-http://tracker.bittor.pw:1337/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -2972,9 +2972,9 @@ http://tr1.aag.moe:2095/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://wepzone.net:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -3014,15 +3014,15 @@ udp://tracker.birkenwald.de:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
-udp://tk4.leechshield.link:6969/announce
-
 https://tracker1.520.jp:443/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
+udp://tk4.leechshield.link:6969/announce
+
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -3044,9 +3044,9 @@ udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://tracker.theoks.net:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -3056,9 +3056,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://tracker.ccp.ovh:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
