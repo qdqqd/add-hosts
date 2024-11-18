@@ -2852,7 +2852,11 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+udp://serpb.vpsburti.com:6969/announce
+
 https://tracker.leechshield.link:443/announce
+
+http://tk.leechshield.link:80/announce
 
 udp://open.stealth.si:80/announce
 
@@ -2866,11 +2870,7 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://serpb.vpsburti.com:6969/announce
-
 udp://tracker.gigantino.net:6969/announce
-
-http://tk.leechshield.link:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -2996,9 +2996,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://tracker.edkj.club:6969/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -3006,9 +3006,9 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-http://tracker.enitin.xyz:80/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+http://tracker.enitin.xyz:80/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -3022,9 +3022,9 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tk4.leechshield.link:6969/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -3046,9 +3046,9 @@ udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://yahor.of.by:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -3090,13 +3090,13 @@ udp://tracker.waaa.moe:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
 
