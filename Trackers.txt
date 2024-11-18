@@ -2944,9 +2944,9 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://opentracker.io:6969/announce
-
 http://ipv4.rer.lol:2710/announce
+
+udp://opentracker.io:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -2978,11 +2978,11 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 https://tracker.pmman.tech:443/announce
 
-http://ipv6.rer.lol:6969/announce
+udp://tracker.jamesthebard.net:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
-udp://tracker.jamesthebard.net:6969/announce
+http://ipv6.rer.lol:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -3014,11 +3014,11 @@ udp://moonburrow.club:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://tracker4.leechshield.link:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://tk4.leechshield.link:6969/announce
 
@@ -3028,9 +3028,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://tracker.birkenwald.de:6969/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -3058,9 +3058,9 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://yahor.of.by:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -3076,9 +3076,9 @@ http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 udp://ryjer.com:6969/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tr3.ysagin.top:2715/announce
 
