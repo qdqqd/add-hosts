@@ -2868,15 +2868,15 @@ udp://run.publictracker.xyz:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-udp://u6.trakx.crim.ist:1337/announce
+udp://t.overflow.biz:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -2966,19 +2966,19 @@ udp://moonburrow.club:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://tk4.leechshield.link:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
+udp://bt.rer.lol:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -3006,17 +3006,17 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
-udp://yahor.of.by:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
 
-udp://tracker.iperson.xyz:6969/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
+udp://yahor.of.by:6969/announce
+
 udp://tracker.kmzs123.cf:17272/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -3044,9 +3044,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.netmap.top:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 udp://freedomalternative.com:6969/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 udp://ftp.pet:2710/announce
 
