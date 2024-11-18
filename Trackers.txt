@@ -2842,8 +2842,6 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-udp://open.stealth.si:80/announce
-
 udp://exodus.desync.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -2855,6 +2853,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 
 https://tracker.leechshield.link:443/announce
+
+udp://open.stealth.si:80/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -3010,17 +3010,17 @@ http://tracker.enitin.xyz:80/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+udp://tracker4.leechshield.link:6969/announce
+
 udp://tk4.leechshield.link:6969/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -3030,9 +3030,9 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -3044,9 +3044,9 @@ udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
