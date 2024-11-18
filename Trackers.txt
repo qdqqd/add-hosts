@@ -2920,23 +2920,23 @@ https://sparkle.ghostchu-services.top:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-http://bvarf.tracker.sh:2086/announce
-
 http://ipv4.rer.lol:2710/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-http://saltwood.top:6969/announce
-
 http://kiryuu-test.mywaifu.best:6969/announce
+
+http://saltwood.top:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://www.torrent.eu.org:451/announce
 
-http://tracker.renfei.net:8080/announce
-
 udp://opentracker.io:6969/announce
+
+http://tracker.renfei.net:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -2956,9 +2956,9 @@ https://mathkangaroo.jp:443/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://tracker.darkness.services:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
@@ -3038,9 +3038,9 @@ udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.kmzs123.cf:17272/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
@@ -3048,13 +3048,13 @@ udp://tracker.theoks.net:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://yahor.of.by:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.iperson.xyz:6969/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -3072,13 +3072,13 @@ udp://open.u-p.pw:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
-http://tracker.skyts.net:6969/announce
+udp://tr3.ysagin.top:2715/announce
 
 udp://free.publictracker.xyz:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://tracker.netmap.top:6969/announce
 
