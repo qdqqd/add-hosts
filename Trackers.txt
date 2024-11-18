@@ -2888,9 +2888,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://saltwood.top:6969/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 http://ipv4.rer.lol:2710/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -2936,9 +2936,9 @@ udp://tracker.cyberia.is:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://wepzone.net:6969/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -2974,17 +2974,17 @@ udp://tk4.leechshield.link:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 http://tracker.enitin.xyz:80/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://tracker1.520.jp:443/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -3008,13 +3008,13 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tracker.kmzs123.cn:17272/announce
 
-udp://yahor.of.by:6969/announce
-
 udp://tracker.kmzs123.cf:17272/announce
+
+http://tracker.ipv6tracker.ru:80/announce
+
+udp://yahor.of.by:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
