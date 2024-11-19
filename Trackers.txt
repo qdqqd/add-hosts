@@ -2934,8 +2934,6 @@ udp://opentracker.io:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-http://ipv4.rer.lol:2710/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -2959,6 +2957,8 @@ udp://7p41a8967.wicp.vip:22222/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker.darkness.services:6969/announce
+
+http://ipv4.rer.lol:2710/announce
 
 udp://jutone.com:6969/announce
 
@@ -3034,9 +3034,9 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://tk4.leechshield.link:6969/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
