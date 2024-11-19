@@ -2998,19 +2998,19 @@ udp://moonburrow.club:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 http://tracker.enitin.xyz:80/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://cq.kmzs123.cn:17272/announce
+udp://tk1v6.trackerservers.com:8080/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -3018,9 +3018,9 @@ udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tracker.kmzs123.cf:17272/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -3030,17 +3030,17 @@ udp://tk4.leechshield.link:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://yahor.of.by:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -3054,11 +3054,11 @@ http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 udp://ryjer.com:6969/announce
 
