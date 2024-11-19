@@ -2852,8 +2852,6 @@ https://tracker.leechshield.link:443/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://open.demonii.com:1337/announce
@@ -2876,13 +2874,15 @@ http://public.tracker.vraphim.com:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.srv00.com:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -2922,9 +2922,9 @@ http://saltwood.top:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://ipv4.rer.lol:2710/announce
+
+udp://www.torrent.eu.org:451/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -2992,13 +2992,13 @@ udp://tracker.edkj.club:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://moonburrow.club:6969/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
 
-http://canardscitrons.nohost.me:6969/announce
+udp://moonburrow.club:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -3018,17 +3018,17 @@ udp://bt.rer.lol:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://tk4.leechshield.link:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
+
+udp://tk4.leechshield.link:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -3040,9 +3040,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://yahor.of.by:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
