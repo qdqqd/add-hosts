@@ -2666,8 +2666,6 @@ https://tr.zukizuki.org:443/announce
 
 https://tracker.moeking.me:443/announce
 
-http://tk.leechshield.link:80/announce
-
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -2687,6 +2685,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
+
+http://tk.leechshield.link:80/announce
 
 udp://open.stealth.si:80/announce
 
@@ -2710,8 +2710,6 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://public.tracker.vraphim.com:6969/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -2723,6 +2721,8 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+http://tracker.bittor.pw:1337/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -2766,9 +2766,9 @@ udp://www.torrent.eu.org:451/announce
 
 https://tracker.cloudit.top:443/announce
 
-http://tracker.renfei.net:8080/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+http://tracker.renfei.net:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -2780,9 +2780,9 @@ https://api.ipv4online.uk:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tk1.trackerservers.com:8080/announce
+
+http://open.acgtracker.com:1096/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -2790,11 +2790,11 @@ udp://open.dstud.io:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 udp://tracker.darkness.services:6969/announce
 
 udp://jutone.com:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -2856,9 +2856,9 @@ http://canardscitrons.nohost.me:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-https://tracker1.520.jp:443/announce
-
 udp://bt.rer.lol:6969/announce
+
+https://tracker1.520.jp:443/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
@@ -2870,9 +2870,9 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://yahor.of.by:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -2880,19 +2880,19 @@ https://tracker.cangku.moe:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tk4.leechshield.link:6969/announce
-
-http://tracker.ipv6tracker.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker4.leechshield.link:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 http://t.acg.rip:6699/announce
 
