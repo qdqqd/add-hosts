@@ -2748,17 +2748,17 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
+http://kiryuu-test.mywaifu.best:6969/announce
+
 https://sparkle.ghostchu-services.top:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://saltwood.top:6969/announce
 
@@ -2850,9 +2850,9 @@ http://tracker.enitin.xyz:80/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://tracker.birkenwald.de:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -2878,9 +2878,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
@@ -2912,9 +2912,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tracker.netmap.top:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://ftp.pet:2710/announce
 
@@ -5026,9 +5026,9 @@ http://tracker.netmap.top:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
-udp://serpb.vpsburti.com:6969/announce
-
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+udp://serpb.vpsburti.com:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -5053,6 +5053,8 @@ https://mathkangaroo.jp:443/announce
 udp://explodie.org:6969/announce
 
 https://tracker.bjut.jp:443/announce
+
+http://207.241.226.111:6969/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
