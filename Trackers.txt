@@ -2928,21 +2928,21 @@ http://tracker2.itzmx.com:6961/announce
 
 udp://www.torrent.eu.org:451/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
-https://tracker.renfei.net:8080/announce
-
 udp://opentracker.io:6969/announce
+
+https://tracker.renfei.net:8080/announce
 
 https://api.ipv4online.uk:443/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 https://tracker.bjut.jp:443/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -2950,17 +2950,17 @@ http://open.acgtracker.com:1096/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 udp://jutone.com:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://wepzone.net:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 
 https://tracker.pmman.tech:443/announce
+
+udp://wepzone.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -2988,15 +2988,15 @@ http://ipv4.rer.lol:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://ch3oh.ru:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
+
+http://ch3oh.ru:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -3006,9 +3006,9 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://moonburrow.club:6969/announce
-
 http://tracker.enitin.xyz:80/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -3064,13 +3064,13 @@ https://1337.abcvg.info:443/announce
 
 udp://tk4.leechshield.link:6969/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
-udp://ryjer.com:6969/announce
-
 http://tracker.skyts.net:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
+
+udp://ryjer.com:6969/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://tracker.netmap.top:6969/announce
 
