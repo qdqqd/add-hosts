@@ -2848,6 +2848,8 @@ https://www.peckservers.com:9443/announce
 
 https://trackers.mlsub.net:443/announce
 
+udp://ttk2.nbaonlineservice.com:6969/announce
+
 udp://odd-hd.fr:6969/announce
 
 udp://evan.im:6969/announce
@@ -2882,11 +2884,7 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
-
 udp://tracker.deadorbit.nl:6969/announce
-
-udp://serpb.vpsburti.com:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -2905,6 +2903,8 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://t.overflow.biz:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://serpb.vpsburti.com:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
@@ -2970,9 +2970,9 @@ https://tracker.cloudit.top:443/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-https://tracker.renfei.net:8080/announce
-
 udp://retracker.lanta.me:2710/announce
+
+https://tracker.renfei.net:8080/announce
 
 udp://opentracker.io:6969/announce
 
@@ -3006,9 +3006,9 @@ http://tr1.aag.moe:2095/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -3032,11 +3032,11 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://tracker.kmzs123.cf:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -3052,15 +3052,15 @@ udp://bt.rer.lol:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
-https://tracker1.520.jp:443/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
+
+https://tracker1.520.jp:443/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -3098,11 +3098,11 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tk4.leechshield.link:6969/announce
 
-udp://tracker4.leechshield.link:6969/announce
-
 udp://open.u-p.pw:6969/announce
 
 https://1337.abcvg.info:443/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://ryjer.com:6969/announce
 
