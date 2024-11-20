@@ -2964,11 +2964,11 @@ http://saltwood.top:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-udp://tk2v6.trackerservers.com:8080/announce
-
 udp://www.torrent.eu.org:451/announce
 
 https://tracker.cloudit.top:443/announce
+
+udp://tk2v6.trackerservers.com:8080/announce
 
 https://tracker.renfei.net:8080/announce
 
@@ -2984,9 +2984,9 @@ https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 http://open.acgtracker.com:1096/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -3030,9 +3030,9 @@ http://ch3oh.ru:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
@@ -3048,13 +3048,13 @@ udp://moonburrow.club:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://bt.rer.lol:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-udp://tracker.birkenwald.de:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 
-udp://bt.rer.lol:6969/announce
+udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -3080,9 +3080,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -3114,9 +3114,9 @@ udp://tracker.netmap.top:6969/announce
 
 udp://ftp.pet:2710/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://freedomalternative.com:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -5434,8 +5434,6 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://211.75.210.220:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -5451,6 +5449,8 @@ udp://bandito.byterunner.io:6969/announce
 http://tracker.edkj.club:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+udp://serpb.vpsburti.com:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
