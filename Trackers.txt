@@ -2860,6 +2860,8 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
@@ -2873,8 +2875,6 @@ udp://tracker.gigantino.net:6969/announce
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.vraphim.com:6969/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -2956,11 +2956,11 @@ udp://tracker.darkness.services:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 https://tracker.pmman.tech:443/announce
 
 udp://wepzone.net:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -2986,9 +2986,9 @@ https://retracker.x2k.ru:443/announce
 
 http://ipv4.rer.lol:2710/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
@@ -3040,9 +3040,9 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
@@ -3062,13 +3062,13 @@ udp://open.u-p.pw:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tk4.leechshield.link:6969/announce
-
 http://tracker.skyts.net:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
 udp://ryjer.com:6969/announce
+
+udp://tk4.leechshield.link:6969/announce
 
 udp://tracker4.leechshield.link:6969/announce
 
@@ -3078,9 +3078,9 @@ udp://ftp.pet:2710/announce
 
 udp://freedomalternative.com:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://tr3.ysagin.top:2715/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
