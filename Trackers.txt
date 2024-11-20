@@ -2896,8 +2896,6 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 udp://tracker.srv00.com:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
@@ -2909,6 +2907,8 @@ udp://tracker.0x7c0.com:6969/announce
 udp://seedpeer.net:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+http://tracker.bittor.pw:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -2958,9 +2958,9 @@ https://mathkangaroo.jp:443/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -2972,17 +2972,17 @@ https://tracker.pmman.tech:443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-http://tr1.aag.moe:2095/announce
-
 udp://wepzone.net:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
+http://tr1.aag.moe:2095/announce
 
-http://ipv4.rer.lol:2710/announce
+udp://tracker.cyberia.is:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
+
+http://ipv4.rer.lol:2710/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -3012,9 +3012,9 @@ udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 udp://tracker.kmzs123.cf:17272/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -3028,13 +3028,13 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 https://tracker1.520.jp:443/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -3078,9 +3078,9 @@ https://1337.abcvg.info:443/announce
 
 udp://ryjer.com:6969/announce
 
-udp://free.publictracker.xyz:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -3094,9 +3094,9 @@ udp://freedomalternative.com:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-udp://tracker.waaa.moe:6969/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
