@@ -2942,7 +2942,7 @@ https://tracker.cloudit.top:443/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-http://tracker.renfei.net:8080/announce
+https://tracker.renfei.net:8080/announce
 
 udp://opentracker.io:6969/announce
 
@@ -2970,9 +2970,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tracker.pmman.tech:443/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 udp://wepzone.net:6969/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -3032,9 +3032,9 @@ udp://tracker1.myporn.club:9337/announce
 
 https://tracker1.520.jp:443/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://cq.kmzs123.cn:17272/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -3086,9 +3086,9 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://tracker.netmap.top:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://ftp.pet:2710/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -3096,11 +3096,11 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-udp://tracker.waaa.moe:6969/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 https://p4p.arenabg.com:1337/announce
 
