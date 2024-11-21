@@ -2936,11 +2936,11 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
+udp://tracker.kmzs123.tk:17272/announce
+
 udp://www.torrent.eu.org:451/announce
 
 http://saltwood.top:6969/announce
-
-udp://tracker.kmzs123.tk:17272/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -2980,9 +2980,9 @@ http://tr1.aag.moe:2095/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -3014,9 +3014,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -3038,11 +3038,11 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://cq.kmzs123.cn:17272/announce
+http://tracker.pcfreetime.com:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -3078,9 +3078,9 @@ udp://free.publictracker.xyz:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-udp://ryjer.com:6969/announce
-
 udp://tracker.netmap.top:6969/announce
+
+udp://ryjer.com:6969/announce
 
 udp://ftp.pet:2710/announce
 
