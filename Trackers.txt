@@ -2898,11 +2898,11 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 http://tracker.bittor.pw:1337/announce
 
 http://bt.okmp3.ru:2710/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -2918,15 +2918,15 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+http://tracker2.itzmx.com:6961/announce
+
 https://www.peckservers.com:9443/announce
 
-http://tracker2.itzmx.com:6961/announce
+udp://tracker.kmzs123.cf:17272/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://tracker.kmzs123.tk:17272/announce
-
-udp://tracker.kmzs123.cf:17272/announce
 
 http://saltwood.top:6969/announce
 
@@ -2996,9 +2996,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://open.tracker.cl:1337/announce
 
