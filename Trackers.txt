@@ -2920,8 +2920,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://tracker.kmzs123.cf:17272/announce
 
 udp://www.torrent.eu.org:451/announce
@@ -2929,6 +2927,8 @@ udp://www.torrent.eu.org:451/announce
 udp://tracker.kmzs123.tk:17272/announce
 
 http://saltwood.top:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -3022,9 +3022,9 @@ udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://yahor.of.by:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
