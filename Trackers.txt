@@ -2846,6 +2846,8 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+udp://open.deadorbit.nl:6969/announce
+
 udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -2950,9 +2952,9 @@ udp://retracker.lanta.me:2710/announce
 
 udp://opentracker.io:6969/announce
 
-https://www.peckservers.com:9443/announce
-
 https://api.ipv4online.uk:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -2980,9 +2982,9 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://tk2.trackerservers.com:8080/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tk2.trackerservers.com:8080/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -3006,9 +3008,9 @@ http://ch3oh.ru:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -3036,9 +3038,9 @@ udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -3056,9 +3058,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -3086,9 +3088,9 @@ udp://freedomalternative.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://0205.uptm.ch:6969/announce
 
