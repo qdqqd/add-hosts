@@ -2928,17 +2928,17 @@ udp://p2p.publictracker.xyz:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 http://tracker2.itzmx.com:6961/announce
 
-udp://www.torrent.eu.org:451/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
 http://saltwood.top:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -2948,9 +2948,9 @@ udp://tracker.kmzs123.cn:17272/announce
 
 udp://retracker.lanta.me:2710/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://opentracker.io:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -3034,9 +3034,9 @@ udp://yahor.of.by:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
