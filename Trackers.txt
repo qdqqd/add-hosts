@@ -2914,9 +2914,9 @@ https://sparkle.ghostchu-services.top:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-https://www.peckservers.com:9443/announce
-
 http://bvarf.tracker.sh:2086/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -2924,17 +2924,17 @@ http://tracker2.itzmx.com:6961/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://www.torrent.eu.org:451/announce
 
-http://saltwood.top:6969/announce
+udp://tracker.kmzs123.tk:17272/announce
 
-udp://tracker.kmzs123.cn:17272/announce
+http://saltwood.top:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
 https://tracker.cloudit.top:443/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -2994,9 +2994,9 @@ http://ch3oh.ru:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 udp://tracker.edkj.club:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
