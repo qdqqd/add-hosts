@@ -2924,15 +2924,15 @@ udp://tracker.kmzs123.cf:17272/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 http://saltwood.top:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-https://www.peckservers.com:9443/announce
-
 https://tracker.cloudit.top:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
@@ -2968,9 +2968,9 @@ http://tr1.aag.moe:2095/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+udp://tracker.darkness.services:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -2998,9 +2998,9 @@ udp://tracker.edkj.club:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 udp://open.tracker.cl:1337/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -3020,9 +3020,9 @@ https://tracker1.520.jp:443/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://yahor.of.by:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -3030,9 +3030,9 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
