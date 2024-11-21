@@ -2916,17 +2916,17 @@ udp://p2p.publictracker.xyz:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-http://tracker2.itzmx.com:6961/announce
+https://www.peckservers.com:9443/announce
 
-udp://tracker.kmzs123.cf:17272/announce
+http://tracker2.itzmx.com:6961/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://tracker.kmzs123.tk:17272/announce
+
+udp://tracker.kmzs123.cf:17272/announce
 
 http://saltwood.top:6969/announce
 
@@ -2944,11 +2944,11 @@ https://api.ipv4online.uk:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-https://tracker.renfei.net:8080/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
 https://mathkangaroo.jp:443/announce
+
+https://tracker.renfei.net:8080/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -3010,9 +3010,9 @@ udp://bt.rer.lol:6969/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
