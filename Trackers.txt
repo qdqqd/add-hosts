@@ -2894,6 +2894,8 @@ http://public.tracker.vraphim.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://ismaarino.com:1234/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -2905,8 +2907,6 @@ udp://tracker.tryhackx.org:6969/announce
 https://tracker.ipfsscan.io:443/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://seedpeer.net:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -2934,9 +2934,9 @@ http://tracker2.itzmx.com:6961/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://tracker.kmzs123.cf:17272/announce
+
+udp://www.torrent.eu.org:451/announce
 
 http://saltwood.top:6969/announce
 
@@ -2994,9 +2994,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://ipv4.rer.lol:2710/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -3034,17 +3034,17 @@ https://tracker1.520.jp:443/announce
 
 udp://yahor.of.by:6969/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://bt.ktrackers.com:6666/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
