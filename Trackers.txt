@@ -2956,11 +2956,11 @@ http://open.acgtracker.com:1096/announce
 
 udp://open.dstud.io:6969/announce
 
-https://www.peckservers.com:9443/announce
-
 https://tracker.renfei.net:8080/announce
 
 udp://jutone.com:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -2970,13 +2970,13 @@ udp://wepzone.net:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.jamesthebard.net:6969/announce
+udp://tracker.cyberia.is:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -2986,11 +2986,11 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-http://ipv4.rer.lol:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 https://tr2.trkb.ru:443/announce
+
+http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -3008,9 +3008,9 @@ udp://open.tracker.cl:1337/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 http://tracker.enitin.xyz:80/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -3084,9 +3084,9 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 http://region.nl1.privex.cc:6969/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 https://p4p.arenabg.com:1337/announce
 
