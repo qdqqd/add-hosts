@@ -2948,9 +2948,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tracker.pmman.tech:443/announce
 
-udp://wepzone.net:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://wepzone.net:6969/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -2970,9 +2970,9 @@ https://threads.canofsocks.com:443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-http://ipv4.rer.lol:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+http://ipv4.rer.lol:2710/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -3006,9 +3006,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://moonburrow.club:6969/announce
 
-https://tracker1.520.jp:443/announce
-
 udp://yahor.of.by:6969/announce
+
+https://tracker1.520.jp:443/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -3020,11 +3020,11 @@ http://canardscitrons.nohost.me:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://1c.premierzal.ru:6969/announce
 
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -3044,9 +3044,9 @@ http://open.tracker.ink:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 udp://open.u-p.pw:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -3056,9 +3056,9 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://tracker.netmap.top:6969/announce
 
-udp://ryjer.com:6969/announce
-
 udp://ftp.pet:2710/announce
+
+udp://ryjer.com:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -3068,9 +3068,9 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 https://p4p.arenabg.com:1337/announce
 
