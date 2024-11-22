@@ -2888,11 +2888,11 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://bt.okmp3.ru:2710/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+http://tracker.bittor.pw:1337/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -2986,9 +2986,9 @@ http://ch3oh.ru:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -2998,9 +2998,9 @@ udp://bt.rer.lol:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -3020,13 +3020,13 @@ http://canardscitrons.nohost.me:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://1c.premierzal.ru:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
