@@ -2962,9 +2962,9 @@ udp://jutone.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-https://www.peckservers.com:9443/announce
-
 https://tracker.pmman.tech:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://wepzone.net:6969/announce
 
@@ -3014,9 +3014,9 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -3066,9 +3066,9 @@ udp://open.u-p.pw:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://free.publictracker.xyz:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://tracker.netmap.top:6969/announce
 
