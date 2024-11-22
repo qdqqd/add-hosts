@@ -2912,9 +2912,9 @@ udp://tracker.qu.ax:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-http://bvarf.tracker.sh:2086/announce
-
 http://tracker2.itzmx.com:6961/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -2944,11 +2944,11 @@ udp://tk1.trackerservers.com:8080/announce
 
 https://mathkangaroo.jp:443/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://open.acgtracker.com:1096/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -2968,9 +2968,9 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-https://www.peckservers.com:9443/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -2978,9 +2978,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -3010,15 +3010,15 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 udp://yahor.of.by:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://moonburrow.club:6969/announce
 
-https://tracker1.520.jp:443/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+https://tracker1.520.jp:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
