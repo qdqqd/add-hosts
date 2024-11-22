@@ -2924,9 +2924,9 @@ http://saltwood.top:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://tracker.kmzs123.cf:17272/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
@@ -2956,9 +2956,9 @@ udp://jutone.com:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.renfei.net:8080/announce
-
 udp://wepzone.net:6969/announce
+
+https://tracker.renfei.net:8080/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -2970,15 +2970,15 @@ udp://tk2.trackerservers.com:8080/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-https://www.peckservers.com:9443/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://threads.canofsocks.com:443/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 http://ipv4.rer.lol:2710/announce
+
+https://www.peckservers.com:9443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
