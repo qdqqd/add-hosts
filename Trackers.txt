@@ -2932,9 +2932,9 @@ udp://www.torrent.eu.org:451/announce
 
 http://saltwood.top:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -2978,9 +2978,9 @@ udp://tk2.trackerservers.com:8080/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -3010,9 +3010,9 @@ udp://open.tracker.cl:1337/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker1.myporn.club:9337/announce
 
