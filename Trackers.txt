@@ -2820,6 +2820,8 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://evan.im:6969/announce
 
+udp://seedpeer.net:6969/announce
+
 https://pybittrack.retiolus.net:443/announce
 
 udp://bandito.byterunner.io:6969/announce
@@ -2829,8 +2831,6 @@ http://public.tracker.vraphim.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://seedpeer.net:6969/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -2852,13 +2852,13 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
-http://tracker.bittor.pw:1337/announce
-
 https://sparkle.ghostchu-services.top:443/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.qu.ax:6969/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -2888,11 +2888,11 @@ udp://retracker.lanta.me:2710/announce
 
 https://api.ipv4online.uk:443/announce
 
+udp://opentracker.io:6969/announce
+
 udp://tk1.trackerservers.com:8080/announce
 
 https://tracker.bjut.jp:443/announce
-
-udp://opentracker.io:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -2902,11 +2902,11 @@ udp://open.dstud.io:6969/announce
 
 udp://jutone.com:6969/announce
 
+udp://wepzone.net:6969/announce
+
 https://tracker.pmman.tech:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://wepzone.net:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -2978,9 +2978,9 @@ udp://tracker.theoks.net:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
