@@ -2782,8 +2782,6 @@ https://tracker.yemekyedim.com:443/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 https://tracker.gcrenwp.top:443/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -2809,6 +2807,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
@@ -2880,9 +2880,9 @@ https://sparkle.ghostchu-services.top:443/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 http://tracker2.itzmx.com:6961/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -2920,9 +2920,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://jutone.com:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -2940,9 +2940,9 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://ipv4.rer.lol:2710/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -2952,9 +2952,9 @@ http://tracker.mywaifu.best:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://www.peckservers.com:9443/announce
-
 https://tr2.trkb.ru:443/announce
+
+https://www.peckservers.com:9443/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -2994,9 +2994,9 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://tracker.theoks.net:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
