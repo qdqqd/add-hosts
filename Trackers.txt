@@ -2852,9 +2852,9 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-https://sparkle.ghostchu-services.top:443/announce
-
 http://tracker2.itzmx.com:6961/announce
+
+https://sparkle.ghostchu-services.top:443/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -2974,9 +2974,9 @@ https://tracker.cangku.moe:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
