@@ -2814,8 +2814,6 @@ udp://serpb.vpsburti.com:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://tk.leechshield.link:80/announce
 
 udp://open.stealth.si:80/announce
@@ -2845,6 +2843,8 @@ https://pybittrack.retiolus.net:443/announce
 udp://bandito.byterunner.io:6969/announce
 
 http://public.tracker.vraphim.com:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -2896,15 +2896,15 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://tracker.kmzs123.cf:17272/announce
-
 udp://tracker.kmzs123.tk:17272/announce
+
+udp://tracker.kmzs123.cf:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://opentracker.io:6969/announce
 
@@ -3026,11 +3026,11 @@ udp://open.u-p.pw:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tracker.ccp.ovh:6969/announce
+udp://free.publictracker.xyz:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-udp://free.publictracker.xyz:6969/announce
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.netmap.top:6969/announce
 
