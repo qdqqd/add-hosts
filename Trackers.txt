@@ -2888,11 +2888,11 @@ udp://retracker.lanta.me:2710/announce
 
 https://api.ipv4online.uk:443/announce
 
-udp://opentracker.io:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
 https://tracker.bjut.jp:443/announce
+
+udp://opentracker.io:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -2920,9 +2920,9 @@ http://ipv4.rer.lol:2710/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -2938,9 +2938,9 @@ https://retracker.x2k.ru:443/announce
 
 http://ch3oh.ru:6969/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://tracker.edkj.club:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -2972,9 +2972,9 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-udp://tracker.theoks.net:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tracker.theoks.net:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
