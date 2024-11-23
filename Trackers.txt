@@ -2866,9 +2866,9 @@ udp://p2p.publictracker.xyz:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -2912,9 +2912,9 @@ udp://wepzone.net:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-http://tr1.aag.moe:2095/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+http://tr1.aag.moe:2095/announce
 
 http://ipv4.rer.lol:2710/announce
 
@@ -2962,9 +2962,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://moonburrow.club:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://moonburrow.club:6969/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -2974,9 +2974,9 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker.theoks.net:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 https://tracker.cangku.moe:443/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -3016,9 +3016,9 @@ udp://ftp.pet:2710/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://ryjer.com:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://ryjer.com:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
