@@ -2988,9 +2988,9 @@ udp://moonburrow.club:6969/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://bt.ktrackers.com:6666/announce
 
