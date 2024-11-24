@@ -2888,11 +2888,11 @@ udp://tracker.qu.ax:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 udp://p2p.publictracker.xyz:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -2920,9 +2920,9 @@ https://api.ipv4online.uk:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-https://tracker.bjut.jp:443/announce
-
 udp://opentracker.io:6969/announce
+
+https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -2974,17 +2974,17 @@ udp://open.tracker.cl:1337/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 http://tracker.enitin.xyz:80/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://yahor.of.by:6969/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -3002,9 +3002,9 @@ udp://tracker.theoks.net:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
