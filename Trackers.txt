@@ -2924,9 +2924,9 @@ udp://opentracker.io:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
-https://mathkangaroo.jp:443/announce
-
 udp://wepzone.net:6969/announce
+
+https://mathkangaroo.jp:443/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -2972,9 +2972,9 @@ udp://tracker.edkj.club:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -3018,9 +3018,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
