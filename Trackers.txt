@@ -2880,8 +2880,6 @@ udp://tracker.gmi.gd:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 https://sparkle.ghostchu-services.top:443/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -2889,6 +2887,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 http://tracker.bittor.pw:1337/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -2898,9 +2898,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -3012,9 +3012,9 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 http://t.acg.rip:6699/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -3032,13 +3032,13 @@ https://1337.abcvg.info:443/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-http://tracker.skyts.net:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
+http://tracker.skyts.net:6969/announce
 
 udp://tracker.netmap.top:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://ftp.pet:2710/announce
 
