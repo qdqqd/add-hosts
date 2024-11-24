@@ -2980,9 +2980,9 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -3006,11 +3006,11 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 https://1337.abcvg.info:443/announce
 
 udp://open.u-p.pw:6969/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -3031,6 +3031,8 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://0205.uptm.ch:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 https://p4p.arenabg.com:1337/announce
 
@@ -3363,8 +3365,6 @@ udp://api.alarmasqueretaro.com:3074/announce
 http://00.alarmasqueretaro.com:443/announce
 
 udp://tracker.hentai.gg:6969/announce
-
-udp://tracker.vds.nz:6969/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
@@ -5218,8 +5218,6 @@ udp://tracker.iperson.xyz:6969/announce
 
 https://t.213891.xyz:443/announce
 
-udp://193.42.111.57:9337/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -5256,15 +5254,13 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://211.23.142.127:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://211.75.210.220:6969/announce
 
 http://207.241.226.111:6969/announce
 
 http://tracker.edkj.club:6969/announce
-
-udp://211.75.210.220:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
@@ -5275,6 +5271,8 @@ udp://tracker.gmi.gd:6969/announce
 http://207.241.231.226:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 http://tracker.kmzs123.com:80/announce
 
