@@ -2920,11 +2920,11 @@ https://api.ipv4online.uk:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
+udp://wepzone.net:6969/announce
+
 udp://opentracker.io:6969/announce
 
 https://tracker.bjut.jp:443/announce
-
-udp://wepzone.net:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -2956,9 +2956,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -3008,9 +3008,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://1c.premierzal.ru:6969/announce
 
