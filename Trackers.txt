@@ -2902,9 +2902,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-http://saltwood.top:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
+
+http://saltwood.top:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -2922,9 +2922,9 @@ https://api.ipv4online.uk:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://opentracker.io:6969/announce
-
 https://tracker.bjut.jp:443/announce
+
+udp://opentracker.io:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -2972,9 +2972,9 @@ udp://tracker.edkj.club:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://open.tracker.cl:1337/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -3048,11 +3048,11 @@ udp://freedomalternative.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://ryjer.com:6969/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
+
+udp://ryjer.com:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
