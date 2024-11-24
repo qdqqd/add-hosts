@@ -2774,6 +2774,8 @@ udp://z.mercax.com:53/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -2809,8 +2811,6 @@ https://t.213891.xyz:443/announce
 http://tracker.renfei.net:8080/announce
 
 udp://explodie.org:6969/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -2852,13 +2852,13 @@ udp://bandito.byterunner.io:6969/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
+udp://open.deadorbit.nl:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-udp://open.deadorbit.nl:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -2870,13 +2870,13 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -2904,9 +2904,9 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 http://saltwood.top:6969/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://wepzone.net:6969/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
@@ -2934,9 +2934,9 @@ udp://jutone.com:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -2954,9 +2954,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://threads.canofsocks.com:443/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -2994,15 +2994,15 @@ http://tracker.pcfreetime.com:6969/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
-https://tracker.cangku.moe:443/announce
+udp://moonburrow.club:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -3049,8 +3049,6 @@ http://cn.pcfreetime.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
-
-udp://ryjer.com:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -3243,6 +3241,8 @@ http://tracker.aibt.xyz:900/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 https://tracker.jiesen.life:8443/announce
+
+udp://ryjer.com:6969/announce
 
 udp://tracker.trojangogogo.site:8080/announce
 
