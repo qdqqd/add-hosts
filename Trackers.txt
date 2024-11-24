@@ -3016,13 +3016,13 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 http://t.acg.rip:6699/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
+udp://cq.kmzs123.cn:17272/announce
 
 http://open.tracker.ink:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
@@ -3034,9 +3034,9 @@ udp://open.u-p.pw:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://free.publictracker.xyz:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
