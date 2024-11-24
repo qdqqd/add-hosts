@@ -2868,9 +2868,9 @@ udp://tracker.0x7c0.com:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -2906,9 +2906,9 @@ http://saltwood.top:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://wepzone.net:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
@@ -2952,9 +2952,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 https://threads.canofsocks.com:443/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -3032,9 +3032,9 @@ https://1337.abcvg.info:443/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-http://tracker.skyts.net:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
