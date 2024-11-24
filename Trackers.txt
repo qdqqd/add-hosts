@@ -2820,8 +2820,6 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://serpb.vpsburti.com:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
@@ -2835,6 +2833,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 
 udp://t.overflow.biz:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://trackarr.org:6969/announce
 
@@ -2916,9 +2916,9 @@ udp://tracker.kmzs123.cn:17272/announce
 
 udp://retracker.lanta.me:2710/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://wepzone.net:6969/announce
+
+https://api.ipv4online.uk:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -2928,9 +2928,9 @@ https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://open.dstud.io:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://jutone.com:6969/announce
 
@@ -5256,101 +5256,113 @@ udp://zephir.monocul.us:6969/announce
 
 udp://jutone.com:6969/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://trackers.mlsub.net:443/announce
 
-http://fleira.no:6969/announce
-
 http://159.148.57.222:6969/announce
-
-https://tracker.leechshield.link:443/announce
 
 https://tr.zukizuki.org:443/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
+https://t.213891.xyz:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.gcrenwp.top:443/announce
-
-https://tracker.ipfsscan.io:443/announce
-
-http://bvarf.tracker.sh:2086/announce
-
-udp://51.81.222.188:6969/announce
-
-udp://evan.im:6969/announce
-
-udp://89.234.156.205:451/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
-
-https://tracker-zhuqiy.dgj055.icu:443/announce
-
-udp://ns575949.ip-51-222-82.net:6969/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
-
-https://tracker.cloudit.top:443/announce
-
-udp://211.23.142.127:6969/announce
-
-udp://run.publictracker.xyz:6969/announce
-
-udp://tracker.0x7c0.com:6969/announce
-
-udp://211.75.210.220:6969/announce
-
-udp://tracker.deadorbit.nl:6969/announce
-
-http://tracker.kmzs123.com:80/announce
-
-udp://tracker.gmi.gd:6969/announce
-
-https://pybittrack.retiolus.net:443/announce
+http://fleira.no:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-http://tracker.netmap.top:6969/announce
+https://tracker.leechshield.link:443/announce
+
+http://5.181.188.172:1337/announce
+
+http://bvarf.tracker.sh:2086/announce
+
+https://tracker.ipfsscan.io:443/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://evan.im:6969/announce
+
+https://tracker-zhuqiy.dgj055.icu:443/announce
+
+https://pybittrack.retiolus.net:443/announce
+
+udp://51.81.222.188:6969/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
+
+udp://89.234.156.205:451/announce
+
+https://tracker.cloudit.top:443/announce
+
+udp://odd-hd.fr:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
+
+udp://ns575949.ip-51-222-82.net:6969/announce
+
+udp://211.23.142.127:6969/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://207.241.226.111:6969/announce
 
+udp://211.75.210.220:6969/announce
+
+http://tracker.netmap.top:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
+http://207.241.231.226:6969/announce
+
+udp://tracker.srv00.com:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
+
+http://tracker.kmzs123.com:80/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://serpb.vpsburti.com:6969/announce
+udp://tracker.opentrackr.org:1337/announce
 
 https://api.ipv4online.uk:443/announce
 
-http://207.241.231.226:6969/announce
+udp://serpb.vpsburti.com:6969/announce
 
-udp://open.demonii.com:1337/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
 udp://ismaarino.com:1234/announce
 
-http://tracker3.itzmx.com:6961/announce
+udp://open.demonii.com:1337/announce
 
-udp://martin-gebhardt.eu:25/announce
+http://tracker3.itzmx.com:6961/announce
 
 https://mathkangaroo.jp:443/announce
 
-udp://p2p.publictracker.xyz:6969/announce
+https://tracker.bjut.jp:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-https://tracker.bjut.jp:443/announce
+udp://explodie.org:6969/announce
 
-udp://open.stealth.si:80/announce
+udp://p2p.publictracker.xyz:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
+
+udp://tracker.filemail.com:6969/announce
+
+udp://martin-gebhardt.eu:25/announce
 
 wss://tracker.magnetoo.io:443/announce
 
