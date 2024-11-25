@@ -2670,9 +2670,9 @@ http://saltwood.top:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://retracker.lanta.me:2710/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
@@ -2688,17 +2688,17 @@ udp://tk1.trackerservers.com:8080/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-udp://open.dstud.io:6969/announce
-
 http://open.acgtracker.com:1096/announce
 
+udp://open.dstud.io:6969/announce
+
 https://tracker.pmman.tech:443/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://jutone.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -2780,9 +2780,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-https://1337.abcvg.info:443/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+https://1337.abcvg.info:443/announce
 
 udp://open.u-p.pw:6969/announce
 
