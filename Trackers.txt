@@ -2938,9 +2938,9 @@ https://tr2.trkb.ru:443/announce
 
 https://retracker.x2k.ru:443/announce
 
-udp://tracker.edkj.club:6969/announce
-
 http://ch3oh.ru:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -2990,9 +2990,9 @@ https://tracker.cangku.moe:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-http://t.acg.rip:6699/announce
-
 http://open.tracker.ink:6969/announce
+
+http://t.acg.rip:6699/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -3004,9 +3004,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -3016,9 +3016,9 @@ udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://tracker.vds.nz:6969/announce
+
+udp://freedomalternative.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -5204,6 +5204,8 @@ udp://51.81.222.188:6969/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
+udp://evan.im:6969/announce
+
 https://pybittrack.retiolus.net:443/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -5232,21 +5234,31 @@ http://tracker.netmap.top:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
+http://kiryuu-test.mywaifu.best:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 http://207.241.231.226:6969/announce
 
 http://tracker.kmzs123.com:80/announce
 
+udp://bandito.byterunner.io:6969/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
+udp://tracker.opentrackr.org:1337/announce
+
 udp://serpb.vpsburti.com:6969/announce
 
 http://public.tracker.vraphim.com:6969/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://open.demonii.com:1337/announce
 
