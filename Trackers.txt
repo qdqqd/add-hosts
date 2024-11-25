@@ -2870,9 +2870,9 @@ udp://tracker.dler.com:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 http://tracker2.itzmx.com:6961/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -2900,11 +2900,11 @@ udp://retracker.lanta.me:2710/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
+https://tracker.itscraftsoftware.my.id:443/announce
+
 https://api.ipv4online.uk:443/announce
 
 udp://opentracker.io:6969/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -2990,9 +2990,9 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -3010,9 +3010,9 @@ https://1337.abcvg.info:443/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
