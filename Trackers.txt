@@ -2672,9 +2672,9 @@ https://tracker.cloudit.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -2748,9 +2748,9 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 https://tracker1.520.jp:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
