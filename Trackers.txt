@@ -2840,6 +2840,8 @@ udp://t.overflow.biz:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 udp://bandito.byterunner.io:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -2849,8 +2851,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://seedpeer.net:6969/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -2904,13 +2904,13 @@ https://api.ipv4online.uk:443/announce
 
 udp://opentracker.io:6969/announce
 
-https://tracker.bjut.jp:443/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://tk1.trackerservers.com:8080/announce
+https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
+udp://tk1.trackerservers.com:8080/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -2926,17 +2926,17 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.darkness.services:6969/announce
 
-http://tr1.aag.moe:2095/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker.cyberia.is:6969/announce
+http://tr1.aag.moe:2095/announce
 
-udp://tk2.trackerservers.com:8080/announce
+udp://tracker.cyberia.is:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://tk2.trackerservers.com:8080/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -2996,21 +2996,21 @@ http://canardscitrons.nohost.me:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-http://t.acg.rip:6699/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://open.u-p.pw:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
