@@ -2582,6 +2582,8 @@ udp://www.torrent.eu.org:451/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://tracker4.itzmx.com:2710/announce
+
 udp://explodie.org:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
