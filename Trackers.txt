@@ -2830,8 +2830,6 @@ udp://evan.im:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -2839,6 +2837,8 @@ http://tracker.bt4g.com:2095/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -2880,9 +2880,9 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://saltwood.top:6969/announce
 
@@ -2932,15 +2932,15 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-http://ipv6.rer.lol:6969/announce
-
 https://tr2.trkb.ru:443/announce
+
+http://ipv6.rer.lol:6969/announce
 
 https://retracker.x2k.ru:443/announce
 
-http://ch3oh.ru:6969/announce
-
 udp://tracker.edkj.club:6969/announce
+
+http://ch3oh.ru:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -2962,9 +2962,9 @@ udp://yahor.of.by:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -3000,9 +3000,9 @@ udp://free.publictracker.xyz:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://open.u-p.pw:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -3012,9 +3012,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://ftp.pet:2710/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://tracker.ccp.ovh:6969/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -5264,6 +5264,8 @@ udp://open.demonii.com:1337/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+udp://ismaarino.com:1234/announce
+
 https://mathkangaroo.jp:443/announce
 
 https://tracker.bjut.jp:443/announce
@@ -5273,6 +5275,10 @@ http://tracker1.itzmx.com:8080/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://explodie.org:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
