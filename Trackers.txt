@@ -2652,11 +2652,11 @@ udp://tracker.gmi.gd:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 http://tracker.bittor.pw:1337/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -2668,19 +2668,19 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+https://tracker.itscraftsoftware.my.id:443/announce
+
 http://saltwood.top:6969/announce
 
 https://tracker.cloudit.top:443/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://www.torrent.eu.org:451/announce
+
+https://api.ipv4online.uk:443/announce
 
 udp://opentracker.io:6969/announce
 
@@ -2700,9 +2700,9 @@ https://tracker.pmman.tech:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://jutone.com:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://jutone.com:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -2796,9 +2796,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://ftp.pet:2710/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
