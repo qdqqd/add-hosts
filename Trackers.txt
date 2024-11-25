@@ -2908,11 +2908,11 @@ https://tracker.bjut.jp:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 https://mathkangaroo.jp:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -2944,9 +2944,9 @@ http://ipv6.rer.lol:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 https://retracker.x2k.ru:443/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -2988,9 +2988,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -3006,9 +3006,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 https://1337.abcvg.info:443/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
