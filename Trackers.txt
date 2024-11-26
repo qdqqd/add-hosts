@@ -2872,9 +2872,9 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 http://tracker2.itzmx.com:6961/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -2964,13 +2964,13 @@ udp://bt.rer.lol:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://yahor.of.by:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+https://www.peckservers.com:9443/announce
 
 udp://tracker.iperson.xyz:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -3006,9 +3006,9 @@ http://open.tracker.ink:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://free.publictracker.xyz:6969/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -3035,8 +3035,6 @@ udp://freedomalternative.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
-
-udp://cq.kmzs123.cn:17272/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -3521,6 +3519,8 @@ http://tracker.ismaarino.com:8880/announce
 udp://tracker.cloaka.xyz:1337/announce
 
 udp://api.clasificadosrapidos.com:53/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -5282,11 +5282,11 @@ http://public.tracker.vraphim.com:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+udp://ismaarino.com:1234/announce
+
 udp://open.demonii.com:1337/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-udp://ismaarino.com:1234/announce
 
 https://mathkangaroo.jp:443/announce
 
