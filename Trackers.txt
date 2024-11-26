@@ -2882,13 +2882,13 @@ udp://tracker.filemail.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
+
+https://sparkle.ghostchu-services.top:443/announce
 
 http://tracker.bittor.pw:1337/announce
 
-https://sparkle.ghostchu-services.top:443/announce
+udp://run.publictracker.xyz:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -2920,9 +2920,9 @@ udp://open.dstud.io:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 https://tracker.pmman.tech:443/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -2944,9 +2944,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
-udp://tk2.trackerservers.com:8080/announce
-
 https://retracker.x2k.ru:443/announce
+
+udp://tk2.trackerservers.com:8080/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -2966,13 +2966,13 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://yahor.of.by:6969/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://tracker.iperson.xyz:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+https://www.peckservers.com:9443/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
