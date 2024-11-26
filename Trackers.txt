@@ -2908,11 +2908,11 @@ udp://open.dstud.io:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -2928,9 +2928,9 @@ https://threads.canofsocks.com:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 https://tr2.trkb.ru:443/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 https://retracker.x2k.ru:443/announce
 
@@ -2956,9 +2956,9 @@ udp://yahor.of.by:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://tracker.birkenwald.de:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -3016,9 +3016,9 @@ udp://tracker.vds.nz:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 udp://freedomalternative.com:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
