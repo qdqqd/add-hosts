@@ -2844,13 +2844,13 @@ udp://tracker.srv00.com:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
 
+udp://tracker.0x7c0.com:6969/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
-udp://tracker.0x7c0.com:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -2882,9 +2882,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://saltwood.top:6969/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://www.torrent.eu.org:451/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -2892,11 +2892,11 @@ udp://tracker.kmzs123.tk:17272/announce
 
 https://api.ipv4online.uk:443/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -2920,9 +2920,9 @@ udp://tracker.darkness.services:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 https://tr2.trkb.ru:443/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 https://retracker.x2k.ru:443/announce
 
@@ -3018,9 +3018,9 @@ udp://freedomalternative.com:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 http://0205.uptm.ch:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -5216,9 +5216,9 @@ udp://evan.im:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-udp://89.234.156.205:451/announce
-
 http://tracker.edkj.club:6969/announce
+
+udp://89.234.156.205:451/announce
 
 udp://odd-hd.fr:6969/announce
 
