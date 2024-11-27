@@ -2850,9 +2850,9 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 http://bt.okmp3.ru:2710/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
@@ -2902,17 +2902,17 @@ https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-udp://opentracker.io:6969/announce
-
 https://tr2.trkb.ru:443/announce
 
+udp://opentracker.io:6969/announce
+
 http://kiryuu-test.mywaifu.best:6969/announce
+
+https://retracker.x2k.ru:443/announce
 
 udp://open.dstud.io:6969/announce
 
 https://tracker.pmman.tech:443/announce
-
-https://retracker.x2k.ru:443/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -2922,9 +2922,9 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 http://tr1.aag.moe:2095/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -3014,9 +3014,9 @@ udp://ftp.pet:2710/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -3025,8 +3025,6 @@ udp://tracker.home.kmzs123.cn:17272/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
-
-udp://retracker.hotplug.ru:2710/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -3039,6 +3037,8 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
 
 http://wegkxfcivgx.chickenkiller.com:80/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.btsync.gq:233/announce
 
@@ -5262,6 +5262,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
@@ -5269,8 +5271,6 @@ udp://open.demonii.com:1337/announce
 http://public.tracker.vraphim.com:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
