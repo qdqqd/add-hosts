@@ -2894,9 +2894,9 @@ https://tracker.cloudit.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 https://api.ipv4online.uk:443/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -3016,9 +3016,11 @@ udp://d13bttrck.duckdns.org:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+udp://tracker.kmzs123.top:17272/announce
+
 udp://freedomalternative.com:6969/announce
 
-udp://tracker.kmzs123.top:17272/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -3027,8 +3029,6 @@ http://0205.uptm.ch:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 
 http://region.nl1.privex.cc:6969/announce
-
-udp://tracker.home.kmzs123.cn:17272/announce
 
 https://p4p.arenabg.com:1337/announce
 
