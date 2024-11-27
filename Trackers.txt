@@ -2930,9 +2930,9 @@ udp://tracker.cyberia.is:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -2970,9 +2970,9 @@ udp://tracker.jamesthebard.net:6969/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -3014,9 +3014,9 @@ udp://ftp.pet:2710/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -5258,9 +5258,9 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -5271,8 +5271,6 @@ udp://open.demonii.com:1337/announce
 http://public.tracker.vraphim.com:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-udp://serpb.vpsburti.com:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
 
