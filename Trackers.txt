@@ -2780,6 +2780,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://trackers.mlsub.net:443/announce
 
+https://tracker.ipfsscan.io:443/announce
+
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -2807,8 +2809,6 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 
 udp://explodie.org:6969/announce
-
-https://tracker.ipfsscan.io:443/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -2840,8 +2840,6 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -2853,6 +2851,8 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://ismaarino.com:1234/announce
 
 http://tracker.bt4g.com:2095/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -2926,9 +2926,9 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://jutone.com:6969/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 https://retracker.x2k.ru:443/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -2996,9 +2996,9 @@ udp://1c.premierzal.ru:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -5256,9 +5256,9 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 udp://211.75.210.220:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 udp://211.23.142.127:6969/announce
 
@@ -5272,9 +5272,9 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 http://tracker.kmzs123.com:80/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -5289,6 +5289,8 @@ udp://ismaarino.com:1234/announce
 udp://open.demonii.com:1337/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://serpb.vpsburti.com:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
 
