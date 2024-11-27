@@ -2940,9 +2940,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.enitin.xyz:80/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -2980,9 +2980,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://moonburrow.club:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -3012,15 +3012,15 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 udp://ftp.pet:2710/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://freedomalternative.com:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -5252,9 +5252,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 http://tracker.kmzs123.com:80/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
