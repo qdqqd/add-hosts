@@ -2784,6 +2784,8 @@ udp://amigacity.xyz:6969/announce
 
 https://tracker.gcrenwp.top:443/announce
 
+udp://bandito.byterunner.io:6969/announce
+
 https://tr.zukizuki.org:443/announce
 
 https://tracker.moeking.me:443/announce
@@ -2805,8 +2807,6 @@ udp://explodie.org:6969/announce
 udp://evan.im:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -2830,13 +2830,13 @@ http://tracker.beeimg.com:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -2894,9 +2894,9 @@ https://tracker.cloudit.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://tracker.kmzs123.tk:17272/announce
+
+https://api.ipv4online.uk:443/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -2904,9 +2904,9 @@ https://mathkangaroo.jp:443/announce
 
 udp://opentracker.io:6969/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 https://tr2.trkb.ru:443/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -2926,9 +2926,9 @@ udp://tk1.trackerservers.com:8080/announce
 
 http://tr1.aag.moe:2095/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -2990,11 +2990,11 @@ udp://1c.premierzal.ru:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://tracker.pcfreetime.com:6969/announce
+http://open.tracker.ink:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-http://open.tracker.ink:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -3022,9 +3022,9 @@ udp://tracker.kmzs123.top:17272/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 http://0205.uptm.ch:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -5214,11 +5214,11 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 udp://51.81.222.188:6969/announce
 
 http://tracker.edkj.club:6969/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 udp://evan.im:6969/announce
 
@@ -5238,15 +5238,15 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://211.75.210.220:6969/announce
-
 http://tracker.netmap.top:6969/announce
+
+udp://211.75.210.220:6969/announce
 
 udp://211.23.142.127:6969/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 http://207.241.231.226:6969/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
