@@ -5262,13 +5262,15 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 http://tracker.kmzs123.com:80/announce
 
 udp://bandito.byterunner.io:6969/announce
 
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
 https://api.ipv4online.uk:443/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
@@ -5295,8 +5297,6 @@ udp://explodie.org:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://martin-gebhardt.eu:25/announce
 
 wss://tracker.magnetoo.io:443/announce
 
