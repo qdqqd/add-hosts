@@ -2870,9 +2870,9 @@ http://bvarf.tracker.sh:2086/announce
 
 http://tracker.bittor.pw:1337/announce
 
-https://sparkle.ghostchu-services.top:443/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+https://sparkle.ghostchu-services.top:443/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -2994,9 +2994,9 @@ udp://open.u-p.pw:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -5196,11 +5196,7 @@ udp://51.81.222.188:6969/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
-http://tracker.edkj.club:6969/announce
-
 https://pybittrack.retiolus.net:443/announce
-
-udp://odd-hd.fr:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -5214,13 +5210,13 @@ https://tracker.cloudit.top:443/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://d40969.acod.regrucolo.ru:6969/announce
+
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://211.75.210.220:6969/announce
 
 http://tracker.netmap.top:6969/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://207.241.231.226:6969/announce
 
@@ -5234,9 +5230,9 @@ udp://tracker.gmi.gd:6969/announce
 
 http://tracker.kmzs123.com:80/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -5267,6 +5263,8 @@ udp://explodie.org:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://85.239.33.28:6969/announce
 
 wss://tracker.magnetoo.io:443/announce
 
