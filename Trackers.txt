@@ -2978,9 +2978,9 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -3028,9 +3028,9 @@ udp://tracker.kmzs123.top:17272/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://ftp.pet:2710/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://ftp.pet:2710/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -5272,9 +5272,11 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://211.75.210.220:6969/announce
 
+http://207.241.231.226:6969/announce
+
 udp://211.23.142.127:6969/announce
 
-http://207.241.231.226:6969/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -5282,11 +5284,7 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://tracker.kmzs123.com:80/announce
-
-udp://tracker.deadorbit.nl:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
