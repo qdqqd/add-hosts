@@ -2992,9 +2992,9 @@ udp://tracker.kmzs123.top:17272/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -5224,9 +5224,9 @@ udp://211.23.142.127:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://93.185.165.29:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -5250,11 +5250,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://85.239.33.28:6969/announce
+
 https://mathkangaroo.jp:443/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-udp://85.239.33.28:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
