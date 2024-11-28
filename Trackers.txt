@@ -2818,8 +2818,6 @@ https://pybittrack.retiolus.net:443/announce
 
 udp://trackarr.org:6969/announce
 
-udp://tracker.gigantino.net:6969/announce
-
 https://tracker.leechshield.link:443/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -2827,6 +2825,8 @@ http://tracker.beeimg.com:6969/announce
 http://tracker.vraphim.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -2838,13 +2838,13 @@ udp://ismaarino.com:1234/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://bt.okmp3.ru:2710/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
-
-http://bt.okmp3.ru:2710/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -2874,13 +2874,13 @@ http://tracker.bittor.pw:1337/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://wepzone.net:6969/announce
+http://ipv4.rer.lol:2710/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-http://ipv4.rer.lol:2710/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://wepzone.net:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -2890,9 +2890,9 @@ https://tracker.cloudit.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 https://api.ipv4online.uk:443/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -2902,11 +2902,11 @@ udp://opentracker.io:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
+https://tracker.pmman.tech:443/announce
+
 https://retracker.x2k.ru:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
-
-https://tracker.pmman.tech:443/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -2922,9 +2922,9 @@ http://tr1.aag.moe:2095/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -2958,9 +2958,9 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -2990,9 +2990,9 @@ http://open.tracker.ink:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -3021,8 +3021,6 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://0205.uptm.ch:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
-
-udp://d13bttrck.duckdns.org:6969/announce
 
 https://p4p.arenabg.com:1337/announce
 
@@ -3489,6 +3487,8 @@ https://track.solcloud.eu:443/announce
 http://jvavav.com:80/announce
 
 http://mc.itscraftsoftware.my.id:8804/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tracker.kmzs123.com:17272/announce
 
