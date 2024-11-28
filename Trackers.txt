@@ -2842,6 +2842,8 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 udp://serpb.vpsburti.com:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
@@ -2850,11 +2852,9 @@ http://tracker2.itzmx.com:6961/announce
 
 udp://tracker.dler.com:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://seedpeer.net:6969/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -2926,9 +2926,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://tracker.enitin.xyz:80/announce
+
+http://ipv6.rer.lol:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -2940,9 +2940,9 @@ http://ch3oh.ru:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -3002,9 +3002,9 @@ udp://tracker.kmzs123.top:17272/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://ftp.pet:2710/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -5194,11 +5194,11 @@ udp://51.81.222.188:6969/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://tracker.edkj.club:6969/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://odd-hd.fr:6969/announce
 
