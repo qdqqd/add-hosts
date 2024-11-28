@@ -2832,6 +2832,8 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://tracker.0x7c0.com:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 https://pybittrack.retiolus.net:443/announce
@@ -2847,8 +2849,6 @@ http://tracker.beeimg.com:6969/announce
 http://tracker.vraphim.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -2876,9 +2876,9 @@ http://tracker2.itzmx.com:6961/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://seedpeer.net:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -2886,9 +2886,9 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -2984,9 +2984,9 @@ https://www.peckservers.com:9443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-https://tracker1.520.jp:443/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+https://tracker1.520.jp:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -3014,9 +3014,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 https://1337.abcvg.info:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -5264,13 +5264,13 @@ https://tracker.cloudit.top:443/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://211.75.210.220:6969/announce
 
@@ -5288,8 +5288,6 @@ http://tracker.kmzs123.com:80/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://api.ipv4online.uk:443/announce
@@ -5304,9 +5302,9 @@ udp://serpb.vpsburti.com:6969/announce
 
 udp://ismaarino.com:1234/announce
 
-http://tracker3.itzmx.com:6961/announce
-
 https://mathkangaroo.jp:443/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 https://tracker.bjut.jp:443/announce
 
