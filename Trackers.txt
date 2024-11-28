@@ -2878,15 +2878,15 @@ udp://tracker.dler.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -2966,11 +2966,11 @@ http://ch3oh.ru:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://yahor.of.by:6969/announce
 
@@ -2994,13 +2994,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://moonburrow.club:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 https://tracker.cangku.moe:443/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -3034,9 +3034,9 @@ udp://ftp.pet:2710/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://freedomalternative.com:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -5258,13 +5258,13 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://207.241.226.111:6969/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 udp://89.234.156.205:451/announce
 
 https://tracker.cloudit.top:443/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -5287,6 +5287,8 @@ udp://tracker.gmi.gd:6969/announce
 http://tracker.kmzs123.com:80/announce
 
 udp://tracker.deadorbit.nl:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
