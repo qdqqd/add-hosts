@@ -2846,11 +2846,11 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
+http://tracker2.itzmx.com:6961/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
-
-http://tracker2.itzmx.com:6961/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -2976,9 +2976,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -2994,11 +2994,11 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
+udp://tracker.home.kmzs123.cn:17272/announce
+
 udp://tracker.vds.nz:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
-
-udp://tracker.home.kmzs123.cn:17272/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -3019,8 +3019,6 @@ udp://freedomalternative.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
-
-http://region.nl1.privex.cc:6969/announce
 
 https://p4p.arenabg.com:1337/announce
 
@@ -3223,6 +3221,8 @@ udp://nullzone.fr:6969/announce
 udp://ssb14.nohost.me:6969/announce
 
 http://thitgaluoc.dynu.net:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 udp://dmitrynegoda.com:6969/announce
 
@@ -5254,11 +5254,11 @@ https://mathkangaroo.jp:443/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+udp://85.239.33.28:6969/announce
+
 https://tracker.bjut.jp:443/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-udp://85.239.33.28:6969/announce
 
 udp://explodie.org:6969/announce
 
