@@ -2760,9 +2760,9 @@ udp://seedpeer.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://tracker.qu.ax:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -2866,9 +2866,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -2882,9 +2882,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
@@ -5030,11 +5030,11 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-http://tracker.kmzs123.com:80/announce
-
 udp://85.239.33.28:6969/announce
 
 udp://93.185.165.29:6969/announce
+
+http://tracker.kmzs123.com:80/announce
 
 udp://bandito.byterunner.io:6969/announce
 
