@@ -2842,13 +2842,13 @@ http://tracker.bt4g.com:2095/announce
 
 udp://tracker.breizh.pm:6969/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker2.itzmx.com:6961/announce
-
-udp://tracker.qu.ax:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -2856,11 +2856,11 @@ udp://tracker.dler.com:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://seedpeer.net:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -2868,9 +2868,9 @@ http://ipv4.rer.lol:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -2878,9 +2878,9 @@ http://tracker.bittor.pw:1337/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 http://saltwood.top:6969/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://wepzone.net:6969/announce
 
@@ -2970,9 +2970,9 @@ https://www.peckservers.com:9443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -2988,9 +2988,9 @@ udp://moonburrow.club:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://open.tracker.ink:6969/announce
-
 udp://tracker.vds.nz:6969/announce
+
+http://open.tracker.ink:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -5236,6 +5236,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://211.75.210.220:6969/announce
 
+https://tracker.cloudit.top:443/announce
+
 udp://211.23.142.127:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
@@ -5245,6 +5247,8 @@ udp://93.185.165.29:6969/announce
 http://tracker.kmzs123.com:80/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -5275,6 +5279,10 @@ udp://explodie.org:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 wss://tracker.magnetoo.io:443/announce
 
