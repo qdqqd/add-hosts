@@ -2830,13 +2830,13 @@ udp://tracker.qu.ax:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 http://ipv4.rer.lol:2710/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -2846,9 +2846,9 @@ http://saltwood.top:6969/announce
 
 udp://wepzone.net:6969/announce
 
-https://sparkle.ghostchu-services.top:443/announce
-
 https://tracker.cloudit.top:443/announce
+
+https://sparkle.ghostchu-services.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -2900,9 +2900,9 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tk2.trackerservers.com:8080/announce
-
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tk2.trackerservers.com:8080/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -2930,9 +2930,9 @@ udp://tracker.jamesthebard.net:6969/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -2946,9 +2946,9 @@ udp://moonburrow.club:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
-http://t.acg.rip:6699/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -5139,8 +5139,6 @@ http://tracker.netmap.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://211.75.210.220:6969/announce
-
-udp://93.185.165.29:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
