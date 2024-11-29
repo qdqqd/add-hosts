@@ -2856,19 +2856,19 @@ udp://tracker.dler.com:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://seedpeer.net:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
 http://ipv4.rer.lol:2710/announce
 
-http://bvarf.tracker.sh:2086/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -2890,9 +2890,9 @@ udp://retracker.lanta.me:2710/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 https://api.ipv4online.uk:443/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -2920,9 +2920,9 @@ udp://jutone.com:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -5252,9 +5252,9 @@ http://tracker.kmzs123.com:80/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 udp://85.239.33.28:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -5264,25 +5264,23 @@ http://public.tracker.vraphim.com:6969/announce
 
 udp://ismaarino.com:1234/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 https://mathkangaroo.jp:443/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 http://tracker3.itzmx.com:6961/announce
 
 https://tracker.bjut.jp:443/announce
 
-udp://tracker.deadorbit.nl:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://explodie.org:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://tracker.skynetcloud.site:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
