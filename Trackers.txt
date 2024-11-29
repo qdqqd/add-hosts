@@ -2810,6 +2810,8 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
@@ -2828,19 +2830,17 @@ http://bt.okmp3.ru:2710/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
+
+http://tracker.bt4g.com:2095/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-http://tracker.bt4g.com:2095/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -2960,9 +2960,9 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -3014,9 +3014,9 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 http://0205.uptm.ch:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -5212,11 +5212,11 @@ https://pybittrack.retiolus.net:443/announce
 
 udp://51.81.222.188:6969/announce
 
+http://207.241.226.111:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 udp://89.234.156.205:451/announce
-
-http://207.241.226.111:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -5246,6 +5246,8 @@ udp://93.185.165.29:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
 http://tracker.kmzs123.com:80/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -5271,6 +5273,8 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker3.itzmx.com:6961/announce
 
 https://tracker.bjut.jp:443/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://explodie.org:6969/announce
 
