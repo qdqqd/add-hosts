@@ -5168,9 +5168,9 @@ http://bvarf.tracker.sh:2086/announce
 
 https://tracker.ipfsscan.io:443/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
@@ -5200,9 +5200,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://211.75.210.220:6969/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://93.185.165.29:6969/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://211.23.142.127:6969/announce
 
@@ -5216,8 +5216,6 @@ http://tracker.kmzs123.com:80/announce
 
 udp://85.239.33.28:6969/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
@@ -5230,9 +5228,9 @@ http://public.tracker.vraphim.com:6969/announce
 
 udp://ismaarino.com:1234/announce
 
-https://mathkangaroo.jp:443/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+https://mathkangaroo.jp:443/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
