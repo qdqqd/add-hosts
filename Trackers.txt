@@ -2932,11 +2932,11 @@ udp://tk2.trackerservers.com:8080/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
+udp://yahor.of.by:6969/announce
+
 udp://open.tracker.cl:1337/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://yahor.of.by:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -5202,9 +5202,9 @@ udp://211.75.210.220:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://211.23.142.127:6969/announce
-
 udp://93.185.165.29:6969/announce
+
+udp://211.23.142.127:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
