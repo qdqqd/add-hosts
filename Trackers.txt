@@ -2928,9 +2928,9 @@ http://ch3oh.ru:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tk2.trackerservers.com:8080/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+udp://tk2.trackerservers.com:8080/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -2944,9 +2944,9 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -2960,9 +2960,9 @@ https://tracker.cangku.moe:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
@@ -2996,9 +2996,9 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
-http://0205.uptm.ch:6969/announce
-
 http://region.nl1.privex.cc:6969/announce
+
+http://0205.uptm.ch:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -5212,11 +5212,13 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-http://tracker.kmzs123.com:80/announce
-
 udp://85.239.33.28:6969/announce
 
+http://tracker.kmzs123.com:80/announce
+
 udp://bandito.byterunner.io:6969/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
@@ -5246,9 +5248,11 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+udp://u4.trakx.crim.ist:1337/announce
+
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
+udp://p4p.arenabg.com:1337/announce
 
 wss://tracker.magnetoo.io:443/announce
 
