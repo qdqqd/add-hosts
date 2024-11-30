@@ -2782,6 +2782,8 @@ http://tracker4.itzmx.com:2710/announce
 
 udp://explodie.org:6969/announce
 
+udp://tracker.0x7c0.com:6969/announce
+
 udp://odd-hd.fr:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -2795,8 +2797,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.0x7c0.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -2860,9 +2860,9 @@ http://saltwood.top:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://tracker.cloudit.top:443/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
@@ -2888,9 +2888,9 @@ https://retracker.x2k.ru:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-udp://open.dstud.io:6969/announce
-
 https://tr2.trkb.ru:443/announce
+
+udp://open.dstud.io:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -2932,9 +2932,9 @@ udp://tk2.trackerservers.com:8080/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-udp://yahor.of.by:6969/announce
-
 udp://open.tracker.cl:1337/announce
+
+udp://yahor.of.by:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -2998,9 +2998,9 @@ udp://freedomalternative.com:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 http://region.nl1.privex.cc:6969/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 https://p4p.arenabg.com:1337/announce
 
@@ -5180,13 +5180,13 @@ http://207.241.226.111:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
+udp://evan.im:6969/announce
+
 udp://89.234.156.205:451/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
-
-udp://evan.im:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
