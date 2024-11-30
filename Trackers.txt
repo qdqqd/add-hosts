@@ -2790,9 +2790,9 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-http://tracker2.itzmx.com:6961/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -2826,9 +2826,9 @@ udp://wepzone.net:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 udp://tracker.deadorbit.nl:6969/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -2916,11 +2916,11 @@ udp://bt.ktrackers.com:6666/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-https://tracker.cangku.moe:443/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
+https://tracker.cangku.moe:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -5100,8 +5100,6 @@ http://207.241.226.111:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
-udp://evan.im:6969/announce
-
 udp://89.234.156.205:451/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -5116,11 +5114,11 @@ udp://odd-hd.fr:6969/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
+udp://93.185.165.29:6969/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://211.75.210.220:6969/announce
-
-udp://93.185.165.29:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -5133,8 +5131,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 http://tracker.kmzs123.com:80/announce
-
-udp://85.239.33.28:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -5167,6 +5163,8 @@ udp://explodie.org:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
