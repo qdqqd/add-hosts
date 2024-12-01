@@ -61,7 +61,7 @@ def extract_domains(text):
 def process_tracker_text(text):
     lines = text.splitlines()
     lines = [line.strip() for line in lines if line.strip() != '']  # 去掉只包含空白的行
-    return '\n\n'.join(lines)  # 用两个换行符连接，以确保条目之间有空行
+    return ','.join(lines)  # 用逗号连接所有的行
 
 
 def save_to_file(filename, content):
@@ -98,8 +98,8 @@ def main():
     
     processed_trackers_text = process_tracker_text(trackers_text)
 
-    # 追加自定义的 Tracker 链接
-    processed_trackers_text += '\n\n' + '\n\n'.join(custom_tracker_urls) + '\n'  # 确保自定义跟踪器之间也有空行
+# 追加自定义的 Tracker 链接，并且也使用逗号分隔
+    processed_trackers_text += ',' + ','.join(custom_tracker_urls) + ','  # 确保自定义的跟踪器也使用逗号分隔
 
     save_to_file('Trackers.txt', processed_trackers_text)
 
