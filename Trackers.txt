@@ -2802,8 +2802,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.vraphim.com:6969/announce
@@ -2815,6 +2813,8 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -2832,9 +2832,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -2842,9 +2842,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://serpb.vpsburti.com:6969/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://serpb.vpsburti.com:6969/announce
 
 udp://trackarr.org:6969/announce
 
@@ -2870,13 +2870,13 @@ https://sparkle.ghostchu-services.top:443/announce
 
 udp://wepzone.net:6969/announce
 
+udp://tracker.birkenwald.de:6969/announce
+
 https://tracker.pmman.tech:443/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
 https://api.ipv4online.uk:443/announce
-
-udp://tracker.birkenwald.de:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
