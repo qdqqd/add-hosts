@@ -2888,15 +2888,15 @@ https://api.ipv4online.uk:443/announce
 
 https://tracker.pmman.tech:443/announce
 
+https://tracker.bjut.jp:443/announce
+
 udp://tracker.kmzs123.tk:17272/announce
 
-https://tracker.bjut.jp:443/announce
+https://mathkangaroo.jp:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
-
-https://mathkangaroo.jp:443/announce
 
 udp://opentracker.io:6969/announce
 
@@ -2924,9 +2924,9 @@ udp://tracker.cyberia.is:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://tr1.aag.moe:2095/announce
-
 http://tracker.enitin.xyz:80/announce
+
+http://tr1.aag.moe:2095/announce
 
 https://threads.canofsocks.com:443/announce
 
