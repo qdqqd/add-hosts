@@ -5,15 +5,9 @@ import pytz
 
 all_urls = [
     'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all',
-    'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext',
     'https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts',
     'https://raw.hellogithub.com/hosts',
     'https://raw.githubusercontent.com/maxiaof/github-hosts/master/hosts'
-]
-
-anti_ad_urls = [
-    'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/anti-ad-domains.txt',
-    'https://raw.githubusercontent.com/217heidai/adblockfilters/refs/heads/main/rules/domain.txt'
 ]
 
 tracker_urls = [
@@ -48,21 +42,10 @@ def process_text(text):
     lines.insert(0, f'# 作者：by柯乐\n# Updated on: {formatted_now}\n\n')
     return '\n'.join(lines)
 
-def process_anti_ad_text(text):
-    lines = text.splitlines()
-    lines = [f"127.0.0.1 {line}" for line in lines if line and not line.startswith('#')]
-    return lines
-
-def extract_domains(text):
-    lines = text.splitlines()
-    domains = [line for line in lines if line and not line.startswith('#')]
-    return domains
-
 def process_tracker_text(text):
     lines = text.splitlines()
     lines = [line.strip() for line in lines if line.strip() != '']  # 去掉只包含空白的行
     return ','.join(lines)  # 用逗号连接所有的行
-
 
 def save_to_file(filename, content):
     with open(filename, 'w') as f:
@@ -74,31 +57,18 @@ def main():
     for url in all_urls:
         all_text += fetch_text(url) + '\n'
     
-    # 获取并处理 anti-ad 域名，将其添加到 all_text 和 domain_list
-    anti_ad_lines = []
-    domains = []
-    for url in anti_ad_urls:
-        anti_ad_text = fetch_text(url)
-        anti_ad_lines.extend(process_anti_ad_text(anti_ad_text))
-        domains.extend(extract_domains(anti_ad_text))
-    all_text += '\n'.join(anti_ad_lines) + '\n'
-
-    # 保存域名列表到 domain.txt
-    domain_text = '\n'.join(set(domains))
-    save_to_file('domain.txt', domain_text)
-
     # 处理最终的 addhosts 内容
     processed_text = process_text(all_text)
     save_to_file('addhosts.txt', processed_text)
 
-# 处理 Trackers 内容
+    # 处理 Trackers 内容
     trackers_text = ''
     for url in tracker_urls:
         trackers_text += fetch_text(url) + '\n'
     
     processed_trackers_text = process_tracker_text(trackers_text)
 
-# 追加自定义的 Tracker 链接，并且也使用逗号分隔
+    # 追加自定义的 Tracker 链接，并且也使用逗号分隔
     processed_trackers_text += ',' + ','.join(custom_tracker_urls) + ','  # 确保自定义的跟踪器也使用逗号分隔
 
     save_to_file('Trackers.txt', processed_trackers_text)
