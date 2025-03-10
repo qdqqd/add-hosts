@@ -20,8 +20,7 @@ tracker_urls = [
 ]
 
 custom_tracker_urls = [
-    'http://open.acgtracker.com:1096/announce',
-    'http://another.tracker.url:8080/announce'
+
     # 可以在此处添加更多自定义链接
 ]
 
