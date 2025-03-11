@@ -43,7 +43,9 @@ def process_text(text):
 def process_tracker_text(text):
     lines = text.splitlines()
     lines = [line.strip() for line in lines if line.strip() != '']  # 去掉只包含空白的行
+    lines = list(set(lines))  # 去重
     return ','.join(lines)  # 用逗号连接所有的行
+
 
 def save_to_file(filename, content):
     with open(filename, 'w') as f:
