@@ -20,9 +20,10 @@ tracker_urls = [
 ]
 
 custom_tracker_urls = [
-
     # 可以在此处添加更多自定义链接
 ]
+
+anti_ad_url = 'https://anti-ad.net/domains.txt'
 
 def fetch_text(url):
     response = requests.get(url)
@@ -46,6 +47,13 @@ def process_tracker_text(text):
     lines = list(set(lines))  # 去重
     return ','.join(lines)  # 用逗号连接所有的行
 
+def process_anti_ad_text(text):
+    lines = text.splitlines()
+    # 移除注释行和空行
+    lines = [line.strip() for line in lines if line.strip() and not line.startswith('#')]
+    # 为每个域名添加 127.0.0.1 前缀
+    lines = [f'127.0.0.1 {line}' for line in lines]
+    return '\n'.join(lines)
 
 def save_to_file(filename, content):
     with open(filename, 'w') as f:
@@ -57,8 +65,15 @@ def main():
     for url in all_urls:
         all_text += fetch_text(url) + '\n'
     
-    # 处理最终的 addhosts 内容
+    # 处理 anti-ad 内容并添加到 all_text
+    anti_ad_text = fetch_text(anti_ad_url)
+    processed_anti_ad_text = process_anti_ad_text(anti_ad_text)
+    all_text += '\n' + processed_anti_ad_text
+    
+    # 处理最终的 hosts 内容
     processed_text = process_text(all_text)
+    # 替换所有 0.0.0.0 为 127.0.0.1
+    processed_text = processed_text.replace('0.0.0.0', '127.0.0.1')
     save_to_file('addhosts.txt', processed_text)
 
     # 处理 Trackers 内容
