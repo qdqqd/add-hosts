@@ -5,9 +5,9 @@ import pytz
 
 all_urls = [
     'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all',
-    'https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts',
-    'https://raw.hellogithub.com/hosts',
-    'https://raw.githubusercontent.com/maxiaof/github-hosts/master/hosts'
+  #  'https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts',
+ #   'https://raw.hellogithub.com/hosts',
+#    'https://raw.githubusercontent.com/maxiaof/github-hosts/master/hosts'
 ]
 
 tracker_urls = [
