@@ -13,6 +13,7 @@ all_urls = [
 tracker_urls = [
     'https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all.txt',
     'https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/AT_all.txt',
+    'https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/all.txt',
     'https://newtrackon.com/api/all',
     'https://cf.trackerslist.com/all.txt',
     'https://raw.githubusercontent.com/adysec/tracker/refs/heads/main/trackers_best.txt',
