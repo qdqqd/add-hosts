@@ -11,7 +11,7 @@ all_urls = [
 ]
 
 tracker_urls = [
-    'https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all.txt',
+    'https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt',
     'https://cf.trackerslist.com/best.txt',
     'https://newtrackon.com/api/stable',
     'https://down.adysec.com/trackers_best.txt',
