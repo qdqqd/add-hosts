@@ -14,7 +14,6 @@ tracker_urls = [
     'https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt',
     'https://cf.trackerslist.com/best.txt',
     'https://newtrackon.com/api/stable',
-    'https://down.adysec.com/trackers_best.txt',
     'https://trackers.run/s/rw_up_hp_hs_v4_v6.txt',
 ]
 
