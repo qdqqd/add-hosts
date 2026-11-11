@@ -50,7 +50,7 @@ def process_anti_ad_text(text):
     # 移除注释行和空行
     lines = [line.strip() for line in lines if line.strip() and not line.startswith('#')]
     # 为每个域名添加 127.0.0.1 前缀
-    lines = [f'127.0.0.1 {line}' for line in lines]
+    lines = [f'0.0.0.0 {line}' for line in lines]
     return '\n'.join(lines)
 
 def save_to_file(filename, content):
@@ -70,8 +70,8 @@ def main():
     
     # 处理最终的 hosts 内容
     processed_text = process_text(all_text)
-    # 替换所有 0.0.0.0 为 127.0.0.1
-    processed_text = processed_text.replace('0.0.0.0', '127.0.0.1')
+    # 替换所有 127.0.0.1 为 0.0.0.0
+    processed_text = processed_text.replace('127.0.0.1', '0.0.0.0')
     save_to_file('addhosts.txt', processed_text)
 
     # 处理 Trackers 内容
